@@ -9,7 +9,7 @@
 
 # Github Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gogorichie&langs_count=6&layout=compact)](https://github.com/gogorichie)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gogorichie&langs_count=25&layout=compact)](https://github.com/gogorichie)
 
 [![Gogorichie's GitHub stats](https://github-readme-stats.vercel.app/api?username=gogorichie&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
