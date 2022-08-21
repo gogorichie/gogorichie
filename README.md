@@ -15,11 +15,11 @@
 - [Creating &amp; Updating your GitHub Personal Access Token](https://vzilla.co.uk/vzilla-blog/creating-updating-your-github-personal-access-token)
 <!-- BLOG-POST-LIST:END -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gogorichie&langs_count=5&layout=compact)](https://github.com/gogorichie)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gogorichie&langs_count=5&layout=compact&theme=radical)](https://github.com/gogorichie)
 
 [![Gogorichie's GitHub stats](https://github-readme-stats.vercel.app/api?username=gogorichie&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gogorichie&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gogorichie&theme=radical)](https://git.io/streak-stats)
 
 
 
