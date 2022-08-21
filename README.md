@@ -8,11 +8,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A year at the tap &lpar;firehose&rpar; end](https://vzilla.co.uk/vzilla-blog/a-year-at-the-tap-firehose-end)
-- [Kubernetes Demo Environment For Everyone](https://vzilla.co.uk/vzilla-blog/project_pace-kasten-k10-demo-environment-for-everyone)
-- [Cloud-Native Data Management Day 2021 NA is Next week!](https://vzilla.co.uk/vzilla-blog/cloud-native-data-management-day-2021-na-is-next-week)
-- [My new “Budget” Custom Mechanical Keyboard](https://vzilla.co.uk/vzilla-blog/my-new-budget-custom-mechanical-keyboard)
-- [Creating &amp; Updating your GitHub Personal Access Token](https://vzilla.co.uk/vzilla-blog/creating-updating-your-github-personal-access-token)
+- [Thoughts On Azure Cache For Redis](https://www.gogorichie.com/blog/microsoft/thoughts-on-azure-cache-4-redis/)
+- [Ubiquiti Unifi Setup Iteration Four](https://www.gogorichie.com/blog/ubiquiti-unifi-setup-iteration-four/)
+- [Taking My Security Grade From D to A](https://www.gogorichie.com/blog/security-grade/)
+- [Terrafy Knowledge Share](https://www.gogorichie.com/blog/microsoft/terrafyknowledge/)
+- [DevOps Days Birmingham Alabama 2022 Talk](https://www.gogorichie.com/blog/devopsdaysbham-2022-talk/)
 <!-- BLOG-POST-LIST:END -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gogorichie&langs_count=5&layout=compact&theme=radical)](https://github.com/gogorichie)
