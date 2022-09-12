@@ -6,15 +6,18 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  gadpp_job:
     runs-on: ubuntu-latest
-    name: Update this repo's README with recent activity
-
+    name: Update GitHub Profile Page
     steps:
-      - uses: actions/checkout@v2
-      - uses: jamesgeorge007/github-activity-readme@master
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: GADPP
+        uses: umutphp/github-action-dynamic-profile-page@v2
+        id: gadpp
         env:
+          API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          COMMIT_MSG: 'Adding recent github activity'
-          MAX_LINES: 5
+          github-username: 'YOUR_GITHUB_USERNAME'
+          user-email: 'EMAIL_USED_ON_GITHUB'
