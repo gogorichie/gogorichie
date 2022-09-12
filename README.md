@@ -7,6 +7,8 @@
 - [DevOps Days Birmingham Alabama 2022 Talk](https://www.gogorichie.com/blog/devopsdaysbham-2022-talk/)
 <!-- BLOG-POST-LIST:END -->
 
+<!--START_SECTION:activity-->
+
 # Github Stats
 ![](https://komarev.com/ghpvc/?username=gogorichie)
 
