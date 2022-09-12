@@ -9,8 +9,6 @@
 
 <!--START_SECTION:activity-->
 
-# Github Stats
-![](https://komarev.com/ghpvc/?username=gogorichie)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gogorichie&langs_count6&layout=compact)](https://github.com/gogorichie)
 
