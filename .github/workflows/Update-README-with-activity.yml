@@ -1,9 +1,7 @@
 name: Update Recent Github Activity
-
 on:
   schedule:
     - cron: '*/30 * * * *'
-  workflow_dispatch:
 
 jobs:
   gadpp_job:
@@ -19,5 +17,5 @@ jobs:
           API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          github-username: 'gogorichie'
-          user-email: 'richard@gogorichie.com'
+          github-username: gogorichie
+          user-email: richard@gogorichie.com
