@@ -2,6 +2,7 @@ name: Update Recent Github Activity
 on:
   schedule:
     - cron: '*/30 * * * *'
+  workflow_dispatch:
 
 jobs:
   gadpp_job:
