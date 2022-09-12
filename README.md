@@ -9,8 +9,7 @@
 
 
 # My Most Recent Github Activity
-<!-- START gadpp -->
-
+<!--START_SECTION:activity-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gogorichie&langs_count6&layout=compact)](https://github.com/gogorichie)
 
