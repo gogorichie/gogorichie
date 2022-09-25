@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: auto-dependabot-pull-request-merge
-      - uses: KeisukeYamashita/auto-dependabot-pull-request-merge@v1
+        uses: KeisukeYamashita/auto-dependabot-pull-request-merge@v1
         with:
           labels: 'dependencies'
           pullRequestNumber: ${{ github.event.pull_request.number }}
