@@ -1,12 +1,14 @@
 name: Merge me!
 
 on:
-  workflow_run:
-    types:
-      - completed
-    workflows:
-      # List all required workflow names here.
-      - 'Continuous Integration'
+  # Trigger on Pull Requests against the master branch.
+  pull_request_target:
+    branches:
+      - main
+  # Trigger on Pull Requests to the master branch.
+  push:
+    branches:
+      - main
 
 jobs:
   merge-me:
