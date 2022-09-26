@@ -1,10 +1,10 @@
 # My Most Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Devops Days Chicago 2022 Recap](https://www.gogorichie.com/blog/devopsdayschicago2022recap/)
 - [Thoughts On Azure Cache For Redis](https://www.gogorichie.com/blog/microsoft/thoughts-on-azure-cache-4-redis/)
 - [Ubiquiti Unifi Setup Iteration Four](https://www.gogorichie.com/blog/ubiquiti-unifi-setup-iteration-four/)
 - [Taking My Security Grade From D to A](https://www.gogorichie.com/blog/security-grade/)
 - [Terrafy Knowledge Share](https://www.gogorichie.com/blog/microsoft/terrafyknowledge/)
-- [DevOps Days Birmingham Alabama 2022 Talk](https://www.gogorichie.com/blog/devopsdaysbham-2022-talk/)
 <!-- BLOG-POST-LIST:END -->
 
 
