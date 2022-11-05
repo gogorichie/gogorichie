@@ -10,10 +10,10 @@
 
 # My Most Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#31](https://github.com/gogorichie/gogorichie2021/pull/31) in [gogorichie/gogorichie2021](https://github.com/gogorichie/gogorichie2021)
-2. 🎉 Merged PR [#2](https://github.com/gogorichie/gogorichie/pull/2) in [gogorichie/gogorichie](https://github.com/gogorichie/gogorichie)
-3. 💪 Opened PR [#5](https://github.com/gogorichie/terracloud/pull/5) in [gogorichie/terracloud](https://github.com/gogorichie/terracloud)
-4. 🎉 Merged PR [#30](https://github.com/gogorichie/gogorichie2021/pull/30) in [gogorichie/gogorichie2021](https://github.com/gogorichie/gogorichie2021)
-5. 💪 Opened PR [#30](https://github.com/gogorichie/gogorichie2021/pull/30) in [gogorichie/gogorichie2021](https://github.com/gogorichie/gogorichie2021)
+1. 🎉 Merged PR [#8](https://github.com/gogorichie/terracloud/pull/8) in [gogorichie/terracloud](https://github.com/gogorichie/terracloud)
+2. 🎉 Merged PR [#7](https://github.com/gogorichie/terracloud/pull/7) in [gogorichie/terracloud](https://github.com/gogorichie/terracloud)
+3. 🎉 Merged PR [#6](https://github.com/gogorichie/terracloud/pull/6) in [gogorichie/terracloud](https://github.com/gogorichie/terracloud)
+4. 🎉 Merged PR [#5](https://github.com/gogorichie/terracloud/pull/5) in [gogorichie/terracloud](https://github.com/gogorichie/terracloud)
+5. 🎉 Merged PR [#31](https://github.com/gogorichie/gogorichie2021/pull/31) in [gogorichie/gogorichie2021](https://github.com/gogorichie/gogorichie2021)
 <!--END_SECTION:activity-->
 
