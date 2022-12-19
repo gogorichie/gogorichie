@@ -10,10 +10,10 @@
 
 # My Most Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#33](https://github.com/gogorichie/gogorichie2021/pull/33) in [gogorichie/gogorichie2021](https://github.com/gogorichie/gogorichie2021)
-2. 💪 Opened PR [#33](https://github.com/gogorichie/gogorichie2021/pull/33) in [gogorichie/gogorichie2021](https://github.com/gogorichie/gogorichie2021)
-3. 🎉 Merged PR [#32](https://github.com/gogorichie/gogorichie2021/pull/32) in [gogorichie/gogorichie2021](https://github.com/gogorichie/gogorichie2021)
-4. 🗣 Commented on [#122](https://github.com/infracost/actions/issues/122) in [infracost/actions](https://github.com/infracost/actions)
-5. 💪 Opened PR [#525](https://github.com/meisnate12/Plex-Meta-Manager-Configs/pull/525) in [meisnate12/Plex-Meta-Manager-Configs](https://github.com/meisnate12/Plex-Meta-Manager-Configs)
+1. 🎉 Merged PR [#34](https://github.com/gogorichie/gogorichie2021/pull/34) in [gogorichie/gogorichie2021](https://github.com/gogorichie/gogorichie2021)
+2. 💪 Opened PR [#34](https://github.com/gogorichie/gogorichie2021/pull/34) in [gogorichie/gogorichie2021](https://github.com/gogorichie/gogorichie2021)
+3. 🎉 Merged PR [#33](https://github.com/gogorichie/gogorichie2021/pull/33) in [gogorichie/gogorichie2021](https://github.com/gogorichie/gogorichie2021)
+4. 💪 Opened PR [#33](https://github.com/gogorichie/gogorichie2021/pull/33) in [gogorichie/gogorichie2021](https://github.com/gogorichie/gogorichie2021)
+5. 🎉 Merged PR [#32](https://github.com/gogorichie/gogorichie2021/pull/32) in [gogorichie/gogorichie2021](https://github.com/gogorichie/gogorichie2021)
 <!--END_SECTION:activity-->
 
