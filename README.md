@@ -10,10 +10,10 @@
 
 # My Most Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#42](https://github.com/gogorichie/gogorichie2021/pull/42) in [gogorichie/gogorichie2021](https://github.com/gogorichie/gogorichie2021)
-2. 💪 Opened PR [#42](https://github.com/gogorichie/gogorichie2021/pull/42) in [gogorichie/gogorichie2021](https://github.com/gogorichie/gogorichie2021)
-3. ❗️ Opened issue [#2](https://github.com/3CloudSolutions/actions-demo/issues/2) in [3CloudSolutions/actions-demo](https://github.com/3CloudSolutions/actions-demo)
-4. ❗️ Opened issue [#1](https://github.com/3CloudSolutions/actions-demo/issues/1) in [3CloudSolutions/actions-demo](https://github.com/3CloudSolutions/actions-demo)
-5. 🎉 Merged PR [#41](https://github.com/gogorichie/gogorichie2021/pull/41) in [gogorichie/gogorichie2021](https://github.com/gogorichie/gogorichie2021)
+1. 💪 Opened PR [#43](https://github.com/gogorichie/gogorichie2021/pull/43) in [gogorichie/gogorichie2021](https://github.com/gogorichie/gogorichie2021)
+2. 🎉 Merged PR [#42](https://github.com/gogorichie/gogorichie2021/pull/42) in [gogorichie/gogorichie2021](https://github.com/gogorichie/gogorichie2021)
+3. 💪 Opened PR [#42](https://github.com/gogorichie/gogorichie2021/pull/42) in [gogorichie/gogorichie2021](https://github.com/gogorichie/gogorichie2021)
+4. ❗️ Opened issue [#2](https://github.com/3CloudSolutions/actions-demo/issues/2) in [3CloudSolutions/actions-demo](https://github.com/3CloudSolutions/actions-demo)
+5. ❗️ Opened issue [#1](https://github.com/3CloudSolutions/actions-demo/issues/1) in [3CloudSolutions/actions-demo](https://github.com/3CloudSolutions/actions-demo)
 <!--END_SECTION:activity-->
 
