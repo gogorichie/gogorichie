@@ -2,9 +2,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Azure Static Web Apps: The Cloud&#39;s New Electric Vehicle](https://www.gogorichie.com/blog/microsoft/azurespringcleaning2023/)
 - [Azure Synapse Overview](https://www.gogorichie.com/blog/microsoft/azure-synapse-overview/)
+- [Devops Days Tampa Bay 2022 Recap](https://www.gogorichie.com/blog/devopsdaystampabay2022recap/)
+- [Built International Session 4: The Truth about Black Consultants Speakers Panel](https://www.gogorichie.com/blog/built-speakers-panel-appearance/)
 - [Devops Days Chicago 2022 Recap](https://www.gogorichie.com/blog/devopsdayschicago2022recap/)
-- [Thoughts On Azure Cache For Redis](https://www.gogorichie.com/blog/microsoft/thoughts-on-azure-cache-4-redis/)
-- [Ubiquiti Unifi Setup Iteration Four](https://www.gogorichie.com/blog/ubiquiti-unifi-setup-iteration-four/)
 <!-- BLOG-POST-LIST:END -->
 
 
