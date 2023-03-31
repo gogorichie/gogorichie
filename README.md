@@ -10,10 +10,10 @@
 
 # My Most Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#43](https://github.com/gogorichie/gogorichie2021/pull/43) in [gogorichie/gogorichie2021](https://github.com/gogorichie/gogorichie2021)
-2. 💪 Opened PR [#43](https://github.com/gogorichie/gogorichie2021/pull/43) in [gogorichie/gogorichie2021](https://github.com/gogorichie/gogorichie2021)
-3. 🎉 Merged PR [#42](https://github.com/gogorichie/gogorichie2021/pull/42) in [gogorichie/gogorichie2021](https://github.com/gogorichie/gogorichie2021)
-4. 💪 Opened PR [#42](https://github.com/gogorichie/gogorichie2021/pull/42) in [gogorichie/gogorichie2021](https://github.com/gogorichie/gogorichie2021)
-5. ❗️ Opened issue [#2](https://github.com/3CloudSolutions/actions-demo/issues/2) in [3CloudSolutions/actions-demo](https://github.com/3CloudSolutions/actions-demo)
+1. 💪 Opened PR [#67](https://github.com/janw/pi-hole-influx/pull/67) in [janw/pi-hole-influx](https://github.com/janw/pi-hole-influx)
+2. 🎉 Merged PR [#43](https://github.com/gogorichie/gogorichie2021/pull/43) in [gogorichie/gogorichie2021](https://github.com/gogorichie/gogorichie2021)
+3. 💪 Opened PR [#43](https://github.com/gogorichie/gogorichie2021/pull/43) in [gogorichie/gogorichie2021](https://github.com/gogorichie/gogorichie2021)
+4. 🎉 Merged PR [#42](https://github.com/gogorichie/gogorichie2021/pull/42) in [gogorichie/gogorichie2021](https://github.com/gogorichie/gogorichie2021)
+5. 💪 Opened PR [#42](https://github.com/gogorichie/gogorichie2021/pull/42) in [gogorichie/gogorichie2021](https://github.com/gogorichie/gogorichie2021)
 <!--END_SECTION:activity-->
 
