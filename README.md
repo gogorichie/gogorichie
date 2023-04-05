@@ -10,10 +10,10 @@
 
 # My Most Recent Github Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/gogorichie/Terraform-ContosoFinance-Demo/issues/2) in [gogorichie/Terraform-ContosoFinance-Demo](https://github.com/gogorichie/Terraform-ContosoFinance-Demo)
-2. 💪 Opened PR [#67](https://github.com/janw/pi-hole-influx/pull/67) in [janw/pi-hole-influx](https://github.com/janw/pi-hole-influx)
-3. 🎉 Merged PR [#43](https://github.com/gogorichie/gogorichie2021/pull/43) in [gogorichie/gogorichie2021](https://github.com/gogorichie/gogorichie2021)
-4. 💪 Opened PR [#43](https://github.com/gogorichie/gogorichie2021/pull/43) in [gogorichie/gogorichie2021](https://github.com/gogorichie/gogorichie2021)
-5. 🎉 Merged PR [#42](https://github.com/gogorichie/gogorichie2021/pull/42) in [gogorichie/gogorichie2021](https://github.com/gogorichie/gogorichie2021)
+1. ❗️ Closed issue [#2](https://github.com/gogorichie/Terraform-ContosoFinance-Demo/issues/2) in [gogorichie/Terraform-ContosoFinance-Demo](https://github.com/gogorichie/Terraform-ContosoFinance-Demo)
+2. 🎉 Merged PR [#3](https://github.com/gogorichie/Terraform-ContosoFinance-Demo/pull/3) in [gogorichie/Terraform-ContosoFinance-Demo](https://github.com/gogorichie/Terraform-ContosoFinance-Demo)
+3. 💪 Opened PR [#3](https://github.com/gogorichie/Terraform-ContosoFinance-Demo/pull/3) in [gogorichie/Terraform-ContosoFinance-Demo](https://github.com/gogorichie/Terraform-ContosoFinance-Demo)
+4. ❗️ Opened issue [#2](https://github.com/gogorichie/Terraform-ContosoFinance-Demo/issues/2) in [gogorichie/Terraform-ContosoFinance-Demo](https://github.com/gogorichie/Terraform-ContosoFinance-Demo)
+5. 💪 Opened PR [#67](https://github.com/janw/pi-hole-influx/pull/67) in [janw/pi-hole-influx](https://github.com/janw/pi-hole-influx)
 <!--END_SECTION:activity-->
 
