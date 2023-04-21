@@ -10,10 +10,10 @@
 
 # My Most Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#46](https://github.com/gogorichie/gogorichie2021/pull/46) in [gogorichie/gogorichie2021](https://github.com/gogorichie/gogorichie2021)
-2. 💪 Opened PR [#46](https://github.com/gogorichie/gogorichie2021/pull/46) in [gogorichie/gogorichie2021](https://github.com/gogorichie/gogorichie2021)
-3. 🎉 Merged PR [#2](https://github.com/gogorichie/Mainroad/pull/2) in [gogorichie/Mainroad](https://github.com/gogorichie/Mainroad)
-4. 💪 Opened PR [#2](https://github.com/gogorichie/Mainroad/pull/2) in [gogorichie/Mainroad](https://github.com/gogorichie/Mainroad)
-5. 🎉 Merged PR [#4](https://github.com/gogorichie/Terraform-ContosoFinance-Demo/pull/4) in [gogorichie/Terraform-ContosoFinance-Demo](https://github.com/gogorichie/Terraform-ContosoFinance-Demo)
+1. ❗️ Opened issue [#48](https://github.com/gogorichie/gogorichie2021/issues/48) in [gogorichie/gogorichie2021](https://github.com/gogorichie/gogorichie2021)
+2. 💪 Opened PR [#47](https://github.com/gogorichie/gogorichie2021/pull/47) in [gogorichie/gogorichie2021](https://github.com/gogorichie/gogorichie2021)
+3. 🎉 Merged PR [#46](https://github.com/gogorichie/gogorichie2021/pull/46) in [gogorichie/gogorichie2021](https://github.com/gogorichie/gogorichie2021)
+4. 💪 Opened PR [#46](https://github.com/gogorichie/gogorichie2021/pull/46) in [gogorichie/gogorichie2021](https://github.com/gogorichie/gogorichie2021)
+5. 🎉 Merged PR [#2](https://github.com/gogorichie/Mainroad/pull/2) in [gogorichie/Mainroad](https://github.com/gogorichie/Mainroad)
 <!--END_SECTION:activity-->
 
