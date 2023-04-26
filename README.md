@@ -10,10 +10,10 @@
 
 # My Most Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/gogorichie/Mainroad/pull/3) in [gogorichie/Mainroad](https://github.com/gogorichie/Mainroad)
-2. 💪 Opened PR [#3](https://github.com/gogorichie/Mainroad/pull/3) in [gogorichie/Mainroad](https://github.com/gogorichie/Mainroad)
-3. 🎉 Merged PR [#50](https://github.com/gogorichie/gogorichie2021/pull/50) in [gogorichie/gogorichie2021](https://github.com/gogorichie/gogorichie2021)
-4. 💪 Opened PR [#50](https://github.com/gogorichie/gogorichie2021/pull/50) in [gogorichie/gogorichie2021](https://github.com/gogorichie/gogorichie2021)
-5. ❗️ Closed issue [#49](https://github.com/gogorichie/gogorichie2021/issues/49) in [gogorichie/gogorichie2021](https://github.com/gogorichie/gogorichie2021)
+1. 💪 Opened PR [#51](https://github.com/gogorichie/gogorichie2021/pull/51) in [gogorichie/gogorichie2021](https://github.com/gogorichie/gogorichie2021)
+2. 🎉 Merged PR [#3](https://github.com/gogorichie/Mainroad/pull/3) in [gogorichie/Mainroad](https://github.com/gogorichie/Mainroad)
+3. 💪 Opened PR [#3](https://github.com/gogorichie/Mainroad/pull/3) in [gogorichie/Mainroad](https://github.com/gogorichie/Mainroad)
+4. 🎉 Merged PR [#50](https://github.com/gogorichie/gogorichie2021/pull/50) in [gogorichie/gogorichie2021](https://github.com/gogorichie/gogorichie2021)
+5. 💪 Opened PR [#50](https://github.com/gogorichie/gogorichie2021/pull/50) in [gogorichie/gogorichie2021](https://github.com/gogorichie/gogorichie2021)
 <!--END_SECTION:activity-->
 
