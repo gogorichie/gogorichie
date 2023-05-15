@@ -10,10 +10,10 @@
 
 # My Most Recent Github Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/DevOpsDaysNashville/talks/pull/1) in [DevOpsDaysNashville/talks](https://github.com/DevOpsDaysNashville/talks)
-2. 🎉 Merged PR [#45](https://github.com/gogorichie/gogorichie2021/pull/45) in [gogorichie/gogorichie2021](https://github.com/gogorichie/gogorichie2021)
-3. 🎉 Merged PR [#52](https://github.com/gogorichie/gogorichie2021/pull/52) in [gogorichie/gogorichie2021](https://github.com/gogorichie/gogorichie2021)
-4. 💪 Opened PR [#52](https://github.com/gogorichie/gogorichie2021/pull/52) in [gogorichie/gogorichie2021](https://github.com/gogorichie/gogorichie2021)
-5. 🎉 Merged PR [#51](https://github.com/gogorichie/gogorichie2021/pull/51) in [gogorichie/gogorichie2021](https://github.com/gogorichie/gogorichie2021)
+1. 💪 Opened PR [#53](https://github.com/gogorichie/gogorichie2021/pull/53) in [gogorichie/gogorichie2021](https://github.com/gogorichie/gogorichie2021)
+2. 💪 Opened PR [#1](https://github.com/DevOpsDaysNashville/talks/pull/1) in [DevOpsDaysNashville/talks](https://github.com/DevOpsDaysNashville/talks)
+3. 🎉 Merged PR [#45](https://github.com/gogorichie/gogorichie2021/pull/45) in [gogorichie/gogorichie2021](https://github.com/gogorichie/gogorichie2021)
+4. 🎉 Merged PR [#52](https://github.com/gogorichie/gogorichie2021/pull/52) in [gogorichie/gogorichie2021](https://github.com/gogorichie/gogorichie2021)
+5. 💪 Opened PR [#52](https://github.com/gogorichie/gogorichie2021/pull/52) in [gogorichie/gogorichie2021](https://github.com/gogorichie/gogorichie2021)
 <!--END_SECTION:activity-->
 
