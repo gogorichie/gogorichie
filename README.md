@@ -10,10 +10,10 @@
 
 # My Most Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#55](https://github.com/gogorichie/gogorichieblog/pull/55) in [gogorichie/gogorichieblog](https://github.com/gogorichie/gogorichieblog)
-2. 💪 Opened PR [#55](https://github.com/gogorichie/gogorichieblog/pull/55) in [gogorichie/gogorichieblog](https://github.com/gogorichie/gogorichieblog)
-3. 🎉 Merged PR [#54](https://github.com/gogorichie/gogorichie2021/pull/54) in [gogorichie/gogorichie2021](https://github.com/gogorichie/gogorichie2021)
-4. 💪 Opened PR [#54](https://github.com/gogorichie/gogorichie2021/pull/54) in [gogorichie/gogorichie2021](https://github.com/gogorichie/gogorichie2021)
-5. 💪 Opened PR [#53](https://github.com/gogorichie/gogorichie2021/pull/53) in [gogorichie/gogorichie2021](https://github.com/gogorichie/gogorichie2021)
+1. 🎉 Merged PR [#3](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module/pull/3) in [gogorichie/terraform-grafana-influxdb-ds-module](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module)
+2. 🎉 Merged PR [#2](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module/pull/2) in [gogorichie/terraform-grafana-influxdb-ds-module](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module)
+3. 🎉 Merged PR [#1](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module/pull/1) in [gogorichie/terraform-grafana-influxdb-ds-module](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module)
+4. 🎉 Merged PR [#55](https://github.com/gogorichie/gogorichieblog/pull/55) in [gogorichie/gogorichieblog](https://github.com/gogorichie/gogorichieblog)
+5. 💪 Opened PR [#55](https://github.com/gogorichie/gogorichieblog/pull/55) in [gogorichie/gogorichieblog](https://github.com/gogorichie/gogorichieblog)
 <!--END_SECTION:activity-->
 
