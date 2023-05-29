@@ -10,10 +10,10 @@
 
 # My Most Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module/pull/9) in [gogorichie/terraform-grafana-influxdb-ds-module](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module)
-2. 💪 Opened PR [#9](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module/pull/9) in [gogorichie/terraform-grafana-influxdb-ds-module](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module)
-3. 🎉 Merged PR [#8](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module/pull/8) in [gogorichie/terraform-grafana-influxdb-ds-module](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module)
-4. 💪 Opened PR [#8](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module/pull/8) in [gogorichie/terraform-grafana-influxdb-ds-module](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module)
-5. ❗️ Closed issue [#6](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module/issues/6) in [gogorichie/terraform-grafana-influxdb-ds-module](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module)
+1. 🎉 Merged PR [#10](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module/pull/10) in [gogorichie/terraform-grafana-influxdb-ds-module](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module)
+2. 💪 Opened PR [#10](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module/pull/10) in [gogorichie/terraform-grafana-influxdb-ds-module](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module)
+3. 🎉 Merged PR [#9](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module/pull/9) in [gogorichie/terraform-grafana-influxdb-ds-module](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module)
+4. 💪 Opened PR [#9](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module/pull/9) in [gogorichie/terraform-grafana-influxdb-ds-module](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module)
+5. 🎉 Merged PR [#8](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module/pull/8) in [gogorichie/terraform-grafana-influxdb-ds-module](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module)
 <!--END_SECTION:activity-->
 
