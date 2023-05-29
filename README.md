@@ -10,10 +10,10 @@
 
 # My Most Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module/pull/3) in [gogorichie/terraform-grafana-influxdb-ds-module](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module)
-2. 🎉 Merged PR [#2](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module/pull/2) in [gogorichie/terraform-grafana-influxdb-ds-module](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module)
-3. 🎉 Merged PR [#1](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module/pull/1) in [gogorichie/terraform-grafana-influxdb-ds-module](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module)
-4. 🎉 Merged PR [#55](https://github.com/gogorichie/gogorichieblog/pull/55) in [gogorichie/gogorichieblog](https://github.com/gogorichie/gogorichieblog)
-5. 💪 Opened PR [#55](https://github.com/gogorichie/gogorichieblog/pull/55) in [gogorichie/gogorichieblog](https://github.com/gogorichie/gogorichieblog)
+1. 💪 Opened PR [#4](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module/pull/4) in [gogorichie/terraform-grafana-influxdb-ds-module](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module)
+2. 🎉 Merged PR [#3](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module/pull/3) in [gogorichie/terraform-grafana-influxdb-ds-module](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module)
+3. 🎉 Merged PR [#2](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module/pull/2) in [gogorichie/terraform-grafana-influxdb-ds-module](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module)
+4. 🎉 Merged PR [#1](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module/pull/1) in [gogorichie/terraform-grafana-influxdb-ds-module](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module)
+5. 🎉 Merged PR [#55](https://github.com/gogorichie/gogorichieblog/pull/55) in [gogorichie/gogorichieblog](https://github.com/gogorichie/gogorichieblog)
 <!--END_SECTION:activity-->
 
