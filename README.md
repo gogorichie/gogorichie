@@ -10,10 +10,10 @@
 
 # My Most Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/gogorichie/Simple-Pi-Stats-Dashboard/pull/7) in [gogorichie/Simple-Pi-Stats-Dashboard](https://github.com/gogorichie/Simple-Pi-Stats-Dashboard)
-2. 🗣 Commented on [#7](https://github.com/gogorichie/Simple-Pi-Stats-Dashboard/issues/7) in [gogorichie/Simple-Pi-Stats-Dashboard](https://github.com/gogorichie/Simple-Pi-Stats-Dashboard)
-3. 💪 Opened PR [#570](https://github.com/meisnate12/Plex-Meta-Manager-Configs/pull/570) in [meisnate12/Plex-Meta-Manager-Configs](https://github.com/meisnate12/Plex-Meta-Manager-Configs)
-4. 🎉 Merged PR [#12](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module/pull/12) in [gogorichie/terraform-grafana-influxdb-ds-module](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module)
-5. 🎉 Merged PR [#13](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module/pull/13) in [gogorichie/terraform-grafana-influxdb-ds-module](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module)
+1. 🔒 Closed issue [#6](https://github.com/gogorichie/Simple-Pi-Stats-Dashboard/issues/6) in [gogorichie/Simple-Pi-Stats-Dashboard](https://github.com/gogorichie/Simple-Pi-Stats-Dashboard)
+2. 🎉 Merged PR [#7](https://github.com/gogorichie/Simple-Pi-Stats-Dashboard/pull/7) in [gogorichie/Simple-Pi-Stats-Dashboard](https://github.com/gogorichie/Simple-Pi-Stats-Dashboard)
+3. 🗣 Commented on [#7](https://github.com/gogorichie/Simple-Pi-Stats-Dashboard/issues/7) in [gogorichie/Simple-Pi-Stats-Dashboard](https://github.com/gogorichie/Simple-Pi-Stats-Dashboard)
+4. 💪 Opened PR [#570](https://github.com/meisnate12/Plex-Meta-Manager-Configs/pull/570) in [meisnate12/Plex-Meta-Manager-Configs](https://github.com/meisnate12/Plex-Meta-Manager-Configs)
+5. 🎉 Merged PR [#12](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module/pull/12) in [gogorichie/terraform-grafana-influxdb-ds-module](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module)
 <!--END_SECTION:activity-->
 
