@@ -1,10 +1,10 @@
 # My Most Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Azure Stream Analytics Overview](https://www.gogorichie.com/blog/microsoft/azure-stream-analytics-overview/)
 - [Home Automation Observability With Terraform and Grafana](https://www.gogorichie.com/blog/homeautomationobservability/)
 - [Recommended DevOps Books](https://www.gogorichie.com/blog/recommendeddevopsbooks/)
 - [Devops Days Nashville 2023 Recap](https://www.gogorichie.com/blog/devopsdaysnashville2023recap/)
 - [Azure Static Web Apps: The Cloud&#39;s New Electric Vehicle](https://www.gogorichie.com/blog/microsoft/azurespringcleaning2023/)
-- [Azure Synapse Overview](https://www.gogorichie.com/blog/microsoft/azure-synapse-overview/)
 <!-- BLOG-POST-LIST:END -->
 
 
