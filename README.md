@@ -10,10 +10,10 @@
 
 # My Most Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module/pull/15) in [gogorichie/terraform-grafana-influxdb-ds-module](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module)
-2. 💪 Opened PR [#15](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module/pull/15) in [gogorichie/terraform-grafana-influxdb-ds-module](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module)
-3. 🎉 Merged PR [#14](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module/pull/14) in [gogorichie/terraform-grafana-influxdb-ds-module](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module)
-4. 💪 Opened PR [#14](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module/pull/14) in [gogorichie/terraform-grafana-influxdb-ds-module](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module)
-5. 🎉 Merged PR [#61](https://github.com/gogorichie/gogorichieblog/pull/61) in [gogorichie/gogorichieblog](https://github.com/gogorichie/gogorichieblog)
+1. 🎉 Merged PR [#19](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module/pull/19) in [gogorichie/terraform-grafana-influxdb-ds-module](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module)
+2. 💪 Opened PR [#19](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module/pull/19) in [gogorichie/terraform-grafana-influxdb-ds-module](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module)
+3. 🎉 Merged PR [#18](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module/pull/18) in [gogorichie/terraform-grafana-influxdb-ds-module](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module)
+4. 💪 Opened PR [#18](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module/pull/18) in [gogorichie/terraform-grafana-influxdb-ds-module](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module)
+5. 🎉 Merged PR [#17](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module/pull/17) in [gogorichie/terraform-grafana-influxdb-ds-module](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module)
 <!--END_SECTION:activity-->
 
