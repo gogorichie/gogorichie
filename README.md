@@ -1,10 +1,10 @@
 # My Most Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Enable GitHub Copilot Within Your Organization](https://www.gogorichie.com/blog/microsoft/githubcopilot-enabling/)
 - [Azure Stream Analytics Overview](https://www.gogorichie.com/blog/microsoft/azure-stream-analytics-overview/)
 - [Home Automation Observability With Terraform and Grafana](https://www.gogorichie.com/blog/homeautomationobservability/)
 - [Recommended DevOps Books](https://www.gogorichie.com/blog/recommendeddevopsbooks/)
 - [Devops Days Nashville 2023 Recap](https://www.gogorichie.com/blog/devopsdaysnashville2023recap/)
-- [Azure Static Web Apps: The Cloud&#39;s New Electric Vehicle](https://www.gogorichie.com/blog/microsoft/azurespringcleaning2023/)
 <!-- BLOG-POST-LIST:END -->
 
 
