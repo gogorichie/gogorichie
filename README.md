@@ -1,4 +1,4 @@
-# My Most Recent Blog posts
+# Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [How to Enable GitHub Copilot Within Your Organization](https://www.gogorichie.com/blog/microsoft/githubcopilot-enabling/)
 - [Azure Stream Analytics Overview](https://www.gogorichie.com/blog/microsoft/azure-stream-analytics-overview/)
@@ -8,7 +8,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-# My Most Recent Github Activity
+# Recent Github Activity
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#32](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module/pull/32) in [gogorichie/terraform-grafana-influxdb-ds-module](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module)
 2. 🎉 Merged PR [#31](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module/pull/31) in [gogorichie/terraform-grafana-influxdb-ds-module](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module)
