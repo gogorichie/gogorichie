@@ -10,10 +10,10 @@
 
 # Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#64](https://github.com/gogorichie/gogorichieblog/pull/64) in [gogorichie/gogorichieblog](https://github.com/gogorichie/gogorichieblog)
-2. 🎉 Merged PR [#32](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module/pull/32) in [gogorichie/terraform-grafana-influxdb-ds-module](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module)
-3. 🎉 Merged PR [#31](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module/pull/31) in [gogorichie/terraform-grafana-influxdb-ds-module](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module)
-4. 💪 Opened PR [#4292](https://github.com/MicrosoftDocs/architecture-center/pull/4292) in [MicrosoftDocs/architecture-center](https://github.com/MicrosoftDocs/architecture-center)
+1. 🎉 Merged PR [#38](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module/pull/38) in [gogorichie/terraform-grafana-influxdb-ds-module](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module)
+2. 🎉 Merged PR [#37](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module/pull/37) in [gogorichie/terraform-grafana-influxdb-ds-module](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module)
+3. 🎉 Merged PR [#36](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module/pull/36) in [gogorichie/terraform-grafana-influxdb-ds-module](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module)
+4. 🎉 Merged PR [#64](https://github.com/gogorichie/gogorichieblog/pull/64) in [gogorichie/gogorichieblog](https://github.com/gogorichie/gogorichieblog)
 5. 💪 Opened PR [#596](https://github.com/meisnate12/Plex-Meta-Manager-Configs/pull/596) in [meisnate12/Plex-Meta-Manager-Configs](https://github.com/meisnate12/Plex-Meta-Manager-Configs)
 <!--END_SECTION:activity-->
 
