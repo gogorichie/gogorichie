@@ -10,10 +10,10 @@
 
 # Recent Github Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#14454](https://github.com/devopsdays/devopsdays-web/pull/14454) in [devopsdays/devopsdays-web](https://github.com/devopsdays/devopsdays-web)
-2. 💪 Opened PR [#6](https://github.com/gogorichie/tf-playground/pull/6) in [gogorichie/tf-playground](https://github.com/gogorichie/tf-playground)
-3. 🎉 Merged PR [#1](https://github.com/gogorichie/drip/pull/1) in [gogorichie/drip](https://github.com/gogorichie/drip)
-4. 💪 Opened PR [#1](https://github.com/gogorichie/drip/pull/1) in [gogorichie/drip](https://github.com/gogorichie/drip)
-5. 🗣 Commented on [#24522](https://github.com/hashicorp/terraform-provider-azurerm/issues/24522#issuecomment-2143539954) in [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm)
+1. 🎉 Merged PR [#16](https://github.com/gogorichie/terracloud/pull/16) in [gogorichie/terracloud](https://github.com/gogorichie/terracloud)
+2. 🎉 Merged PR [#15](https://github.com/gogorichie/terracloud/pull/15) in [gogorichie/terracloud](https://github.com/gogorichie/terracloud)
+3. 🎉 Merged PR [#14](https://github.com/gogorichie/terracloud/pull/14) in [gogorichie/terracloud](https://github.com/gogorichie/terracloud)
+4. 🎉 Merged PR [#13](https://github.com/gogorichie/terracloud/pull/13) in [gogorichie/terracloud](https://github.com/gogorichie/terracloud)
+5. 💪 Opened PR [#14454](https://github.com/devopsdays/devopsdays-web/pull/14454) in [devopsdays/devopsdays-web](https://github.com/devopsdays/devopsdays-web)
 <!--END_SECTION:activity-->
 
