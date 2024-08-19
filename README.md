@@ -10,10 +10,10 @@
 
 # Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/gogorichie/terracloud/pull/16) in [gogorichie/terracloud](https://github.com/gogorichie/terracloud)
-2. 🎉 Merged PR [#15](https://github.com/gogorichie/terracloud/pull/15) in [gogorichie/terracloud](https://github.com/gogorichie/terracloud)
-3. 🎉 Merged PR [#14](https://github.com/gogorichie/terracloud/pull/14) in [gogorichie/terracloud](https://github.com/gogorichie/terracloud)
-4. 🎉 Merged PR [#13](https://github.com/gogorichie/terracloud/pull/13) in [gogorichie/terracloud](https://github.com/gogorichie/terracloud)
-5. 💪 Opened PR [#14454](https://github.com/devopsdays/devopsdays-web/pull/14454) in [devopsdays/devopsdays-web](https://github.com/devopsdays/devopsdays-web)
+1. 🎉 Merged PR [#8](https://github.com/gogorichie/Simple-Pi-Stats-Dashboard/pull/8) in [gogorichie/Simple-Pi-Stats-Dashboard](https://github.com/gogorichie/Simple-Pi-Stats-Dashboard)
+2. 💪 Opened PR [#8](https://github.com/gogorichie/Simple-Pi-Stats-Dashboard/pull/8) in [gogorichie/Simple-Pi-Stats-Dashboard](https://github.com/gogorichie/Simple-Pi-Stats-Dashboard)
+3. 🎉 Merged PR [#16](https://github.com/gogorichie/terracloud/pull/16) in [gogorichie/terracloud](https://github.com/gogorichie/terracloud)
+4. 🎉 Merged PR [#15](https://github.com/gogorichie/terracloud/pull/15) in [gogorichie/terracloud](https://github.com/gogorichie/terracloud)
+5. 🎉 Merged PR [#14](https://github.com/gogorichie/terracloud/pull/14) in [gogorichie/terracloud](https://github.com/gogorichie/terracloud)
 <!--END_SECTION:activity-->
 
