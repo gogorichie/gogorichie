@@ -10,10 +10,10 @@
 
 # Recent Github Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/gogorichie/esphome_esp32_s3_matrix/pull/1) in [gogorichie/esphome_esp32_s3_matrix](https://github.com/gogorichie/esphome_esp32_s3_matrix)
-2. 💪 Opened PR [#17](https://github.com/gogorichie/terracloud/pull/17) in [gogorichie/terracloud](https://github.com/gogorichie/terracloud)
-3. 🎉 Merged PR [#9](https://github.com/gogorichie/Simple-Pi-Stats-Dashboard/pull/9) in [gogorichie/Simple-Pi-Stats-Dashboard](https://github.com/gogorichie/Simple-Pi-Stats-Dashboard)
-4. 💪 Opened PR [#9](https://github.com/gogorichie/Simple-Pi-Stats-Dashboard/pull/9) in [gogorichie/Simple-Pi-Stats-Dashboard](https://github.com/gogorichie/Simple-Pi-Stats-Dashboard)
-5. 🎉 Merged PR [#8](https://github.com/gogorichie/Simple-Pi-Stats-Dashboard/pull/8) in [gogorichie/Simple-Pi-Stats-Dashboard](https://github.com/gogorichie/Simple-Pi-Stats-Dashboard)
+1. 🎉 Merged PR [#2](https://github.com/gogorichie/esphome_esp32_s3_matrix/pull/2) in [gogorichie/esphome_esp32_s3_matrix](https://github.com/gogorichie/esphome_esp32_s3_matrix)
+2. 💪 Opened PR [#2](https://github.com/gogorichie/esphome_esp32_s3_matrix/pull/2) in [gogorichie/esphome_esp32_s3_matrix](https://github.com/gogorichie/esphome_esp32_s3_matrix)
+3. 🎉 Merged PR [#1](https://github.com/gogorichie/esphome_esp32_s3_matrix/pull/1) in [gogorichie/esphome_esp32_s3_matrix](https://github.com/gogorichie/esphome_esp32_s3_matrix)
+4. 💪 Opened PR [#1](https://github.com/gogorichie/esphome_esp32_s3_matrix/pull/1) in [gogorichie/esphome_esp32_s3_matrix](https://github.com/gogorichie/esphome_esp32_s3_matrix)
+5. 💪 Opened PR [#17](https://github.com/gogorichie/terracloud/pull/17) in [gogorichie/terracloud](https://github.com/gogorichie/terracloud)
 <!--END_SECTION:activity-->
 
