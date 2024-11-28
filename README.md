@@ -10,10 +10,10 @@
 
 # Recent Github Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#833](https://github.com/merill/bluesky/issues/833) in [merill/bluesky](https://github.com/merill/bluesky)
-2. 🎉 Merged PR [#2](https://github.com/gogorichie/esphome_esp32_s3_matrix/pull/2) in [gogorichie/esphome_esp32_s3_matrix](https://github.com/gogorichie/esphome_esp32_s3_matrix)
-3. 💪 Opened PR [#2](https://github.com/gogorichie/esphome_esp32_s3_matrix/pull/2) in [gogorichie/esphome_esp32_s3_matrix](https://github.com/gogorichie/esphome_esp32_s3_matrix)
-4. 🎉 Merged PR [#1](https://github.com/gogorichie/esphome_esp32_s3_matrix/pull/1) in [gogorichie/esphome_esp32_s3_matrix](https://github.com/gogorichie/esphome_esp32_s3_matrix)
-5. 💪 Opened PR [#1](https://github.com/gogorichie/esphome_esp32_s3_matrix/pull/1) in [gogorichie/esphome_esp32_s3_matrix](https://github.com/gogorichie/esphome_esp32_s3_matrix)
+1. 🎉 Merged PR [#6](https://github.com/gogorichie/tf-playground/pull/6) in [gogorichie/tf-playground](https://github.com/gogorichie/tf-playground)
+2. ❗ Opened issue [#833](https://github.com/merill/bluesky/issues/833) in [merill/bluesky](https://github.com/merill/bluesky)
+3. 🎉 Merged PR [#2](https://github.com/gogorichie/esphome_esp32_s3_matrix/pull/2) in [gogorichie/esphome_esp32_s3_matrix](https://github.com/gogorichie/esphome_esp32_s3_matrix)
+4. 💪 Opened PR [#2](https://github.com/gogorichie/esphome_esp32_s3_matrix/pull/2) in [gogorichie/esphome_esp32_s3_matrix](https://github.com/gogorichie/esphome_esp32_s3_matrix)
+5. 🎉 Merged PR [#1](https://github.com/gogorichie/esphome_esp32_s3_matrix/pull/1) in [gogorichie/esphome_esp32_s3_matrix](https://github.com/gogorichie/esphome_esp32_s3_matrix)
 <!--END_SECTION:activity-->
 
