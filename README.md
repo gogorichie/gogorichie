@@ -1,10 +1,10 @@
 # Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [My 2024 Network Rack Tour](https://www.gogorichie.com/blog/my-2024-network-rack-tour/)
+- [My 2024 Unraid Server Setup](https://www.gogorichie.com/blog/my-2024-unraid-server/)
 - [How to Enable GitHub Copilot Within Your Organization](https://www.gogorichie.com/blog/microsoft/githubcopilot-enabling/)
 - [Azure Stream Analytics Overview](https://www.gogorichie.com/blog/microsoft/azure-stream-analytics-overview/)
 - [Home Automation Observability With Terraform and Grafana](https://www.gogorichie.com/blog/homeautomationobservability/)
-- [Recommended DevOps Books](https://www.gogorichie.com/blog/recommendeddevopsbooks/)
-- [Devops Days Nashville 2023 Recap](https://www.gogorichie.com/blog/devopsdaysnashville2023recap/)
 <!-- BLOG-POST-LIST:END -->
 
 
