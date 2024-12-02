@@ -10,10 +10,10 @@
 
 # Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#69](https://github.com/gogorichie/gogorichieblog/pull/69) in [gogorichie/gogorichieblog](https://github.com/gogorichie/gogorichieblog)
-2. 💪 Opened PR [#69](https://github.com/gogorichie/gogorichieblog/pull/69) in [gogorichie/gogorichieblog](https://github.com/gogorichie/gogorichieblog)
-3. 🎉 Merged PR [#68](https://github.com/gogorichie/gogorichieblog/pull/68) in [gogorichie/gogorichieblog](https://github.com/gogorichie/gogorichieblog)
-4. 💪 Opened PR [#68](https://github.com/gogorichie/gogorichieblog/pull/68) in [gogorichie/gogorichieblog](https://github.com/gogorichie/gogorichieblog)
-5. 🎉 Merged PR [#67](https://github.com/gogorichie/gogorichieblog/pull/67) in [gogorichie/gogorichieblog](https://github.com/gogorichie/gogorichieblog)
+1. 💪 Opened PR [#70](https://github.com/gogorichie/gogorichieblog/pull/70) in [gogorichie/gogorichieblog](https://github.com/gogorichie/gogorichieblog)
+2. 🎉 Merged PR [#69](https://github.com/gogorichie/gogorichieblog/pull/69) in [gogorichie/gogorichieblog](https://github.com/gogorichie/gogorichieblog)
+3. 💪 Opened PR [#69](https://github.com/gogorichie/gogorichieblog/pull/69) in [gogorichie/gogorichieblog](https://github.com/gogorichie/gogorichieblog)
+4. 🎉 Merged PR [#68](https://github.com/gogorichie/gogorichieblog/pull/68) in [gogorichie/gogorichieblog](https://github.com/gogorichie/gogorichieblog)
+5. 💪 Opened PR [#68](https://github.com/gogorichie/gogorichieblog/pull/68) in [gogorichie/gogorichieblog](https://github.com/gogorichie/gogorichieblog)
 <!--END_SECTION:activity-->
 
