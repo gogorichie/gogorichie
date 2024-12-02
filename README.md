@@ -1,10 +1,10 @@
 # Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Office Meeting Indicator Version 2](https://www.gogorichie.com/blog/office-meeting-indicator-v2/)
 - [My 2024 Network Rack Tour](https://www.gogorichie.com/blog/my-2024-network-rack-tour/)
 - [My 2024 Unraid Server Setup](https://www.gogorichie.com/blog/my-2024-unraid-server/)
 - [How to Enable GitHub Copilot Within Your Organization](https://www.gogorichie.com/blog/microsoft/githubcopilot-enabling/)
 - [Azure Stream Analytics Overview](https://www.gogorichie.com/blog/microsoft/azure-stream-analytics-overview/)
-- [Home Automation Observability With Terraform and Grafana](https://www.gogorichie.com/blog/homeautomationobservability/)
 <!-- BLOG-POST-LIST:END -->
 
 
