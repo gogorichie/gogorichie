@@ -10,10 +10,10 @@
 
 # Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/gogorichie/esphome_esp32_s3_matrix/pull/3) in [gogorichie/esphome_esp32_s3_matrix](https://github.com/gogorichie/esphome_esp32_s3_matrix)
-2. 💪 Opened PR [#3](https://github.com/gogorichie/esphome_esp32_s3_matrix/pull/3) in [gogorichie/esphome_esp32_s3_matrix](https://github.com/gogorichie/esphome_esp32_s3_matrix)
-3. 🎉 Merged PR [#70](https://github.com/gogorichie/gogorichieblog/pull/70) in [gogorichie/gogorichieblog](https://github.com/gogorichie/gogorichieblog)
-4. 💪 Opened PR [#70](https://github.com/gogorichie/gogorichieblog/pull/70) in [gogorichie/gogorichieblog](https://github.com/gogorichie/gogorichieblog)
-5. 🎉 Merged PR [#69](https://github.com/gogorichie/gogorichieblog/pull/69) in [gogorichie/gogorichieblog](https://github.com/gogorichie/gogorichieblog)
+1. ❌ Closed PR [#22](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module/pull/22) in [gogorichie/terraform-grafana-influxdb-ds-module](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module)
+2. 🎉 Merged PR [#44](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module/pull/44) in [gogorichie/terraform-grafana-influxdb-ds-module](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module)
+3. 🎉 Merged PR [#45](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module/pull/45) in [gogorichie/terraform-grafana-influxdb-ds-module](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module)
+4. 🎉 Merged PR [#46](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module/pull/46) in [gogorichie/terraform-grafana-influxdb-ds-module](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module)
+5. 💪 Opened PR [#46](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module/pull/46) in [gogorichie/terraform-grafana-influxdb-ds-module](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module)
 <!--END_SECTION:activity-->
 
