@@ -10,10 +10,10 @@
 
 # Recent Github Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3383](https://github.com/infracost/infracost/issues/3383) in [infracost/infracost](https://github.com/infracost/infracost)
-2. 🔒 Closed issue [#9](https://github.com/gogorichie/esphome_esp32_s3_matrix/issues/9) in [gogorichie/esphome_esp32_s3_matrix](https://github.com/gogorichie/esphome_esp32_s3_matrix)
-3. 🎉 Merged PR [#73](https://github.com/gogorichie/gogorichieblog/pull/73) in [gogorichie/gogorichieblog](https://github.com/gogorichie/gogorichieblog)
-4. 💪 Opened PR [#73](https://github.com/gogorichie/gogorichieblog/pull/73) in [gogorichie/gogorichieblog](https://github.com/gogorichie/gogorichieblog)
-5. 🎉 Merged PR [#72](https://github.com/gogorichie/gogorichieblog/pull/72) in [gogorichie/gogorichieblog](https://github.com/gogorichie/gogorichieblog)
+1. 🎉 Merged PR [#11](https://github.com/gogorichie/esphome_esp32_s3_matrix/pull/11) in [gogorichie/esphome_esp32_s3_matrix](https://github.com/gogorichie/esphome_esp32_s3_matrix)
+2. 🔒 Closed issue [#10](https://github.com/gogorichie/esphome_esp32_s3_matrix/issues/10) in [gogorichie/esphome_esp32_s3_matrix](https://github.com/gogorichie/esphome_esp32_s3_matrix)
+3. 🔒 Closed issue [#8](https://github.com/gogorichie/esphome_esp32_s3_matrix/issues/8) in [gogorichie/esphome_esp32_s3_matrix](https://github.com/gogorichie/esphome_esp32_s3_matrix)
+4. ❗ Opened issue [#3383](https://github.com/infracost/infracost/issues/3383) in [infracost/infracost](https://github.com/infracost/infracost)
+5. 🔒 Closed issue [#9](https://github.com/gogorichie/esphome_esp32_s3_matrix/issues/9) in [gogorichie/esphome_esp32_s3_matrix](https://github.com/gogorichie/esphome_esp32_s3_matrix)
 <!--END_SECTION:activity-->
 
