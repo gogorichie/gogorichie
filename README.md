@@ -10,10 +10,10 @@
 
 # Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.2](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module/releases/tag/v0.1.2) in [gogorichie/terraform-grafana-influxdb-ds-module](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module)
-2. 🔒 Closed issue [#12](https://github.com/gogorichie/esphome_esp32_s3_matrix/issues/12) in [gogorichie/esphome_esp32_s3_matrix](https://github.com/gogorichie/esphome_esp32_s3_matrix)
-3. 🎉 Merged PR [#11](https://github.com/gogorichie/esphome_esp32_s3_matrix/pull/11) in [gogorichie/esphome_esp32_s3_matrix](https://github.com/gogorichie/esphome_esp32_s3_matrix)
-4. 🔒 Closed issue [#10](https://github.com/gogorichie/esphome_esp32_s3_matrix/issues/10) in [gogorichie/esphome_esp32_s3_matrix](https://github.com/gogorichie/esphome_esp32_s3_matrix)
-5. 🔒 Closed issue [#8](https://github.com/gogorichie/esphome_esp32_s3_matrix/issues/8) in [gogorichie/esphome_esp32_s3_matrix](https://github.com/gogorichie/esphome_esp32_s3_matrix)
+1. 💪 Opened PR [#2](https://github.com/gogorichie/drip/pull/2) in [gogorichie/drip](https://github.com/gogorichie/drip)
+2. 🎉 Merged PR [#54](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module/pull/54) in [gogorichie/terraform-grafana-influxdb-ds-module](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module)
+3. 🎉 Merged PR [#1](https://github.com/gogorichie/ESCleanup/pull/1) in [gogorichie/ESCleanup](https://github.com/gogorichie/ESCleanup)
+4. 💪 Opened PR [#1](https://github.com/gogorichie/ESCleanup/pull/1) in [gogorichie/ESCleanup](https://github.com/gogorichie/ESCleanup)
+5. 🚀 Published release [v0.1.2](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module/releases/tag/v0.1.2) in [gogorichie/terraform-grafana-influxdb-ds-module](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module)
 <!--END_SECTION:activity-->
 
