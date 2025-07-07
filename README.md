@@ -10,10 +10,10 @@
 
 # Recent Github Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#14](https://github.com/gogorichie/esphome_esp32_s3_matrix/pull/14) in [gogorichie/esphome_esp32_s3_matrix](https://github.com/gogorichie/esphome_esp32_s3_matrix)
-2. ❗ Opened issue [#7](https://github.com/gogorichie/gogorichie/issues/7) in [gogorichie/gogorichie](https://github.com/gogorichie/gogorichie)
-3. 💪 Opened PR [#2](https://github.com/gogorichie/drip/pull/2) in [gogorichie/drip](https://github.com/gogorichie/drip)
-4. 🎉 Merged PR [#54](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module/pull/54) in [gogorichie/terraform-grafana-influxdb-ds-module](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module)
-5. 🎉 Merged PR [#1](https://github.com/gogorichie/ESCleanup/pull/1) in [gogorichie/ESCleanup](https://github.com/gogorichie/ESCleanup)
+1. 💪 Opened PR [#74](https://github.com/gogorichie/gogorichieblog/pull/74) in [gogorichie/gogorichieblog](https://github.com/gogorichie/gogorichieblog)
+2. 💪 Opened PR [#14](https://github.com/gogorichie/esphome_esp32_s3_matrix/pull/14) in [gogorichie/esphome_esp32_s3_matrix](https://github.com/gogorichie/esphome_esp32_s3_matrix)
+3. ❗ Opened issue [#7](https://github.com/gogorichie/gogorichie/issues/7) in [gogorichie/gogorichie](https://github.com/gogorichie/gogorichie)
+4. 💪 Opened PR [#2](https://github.com/gogorichie/drip/pull/2) in [gogorichie/drip](https://github.com/gogorichie/drip)
+5. 🎉 Merged PR [#54](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module/pull/54) in [gogorichie/terraform-grafana-influxdb-ds-module](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module)
 <!--END_SECTION:activity-->
 
