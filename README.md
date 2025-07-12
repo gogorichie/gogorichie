@@ -10,10 +10,10 @@
 
 # Recent Github Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#75](https://github.com/gogorichie/gogorichieblog/pull/75) in [gogorichie/gogorichieblog](https://github.com/gogorichie/gogorichieblog)
-2. 🎉 Merged PR [#74](https://github.com/gogorichie/gogorichieblog/pull/74) in [gogorichie/gogorichieblog](https://github.com/gogorichie/gogorichieblog)
-3. 💪 Opened PR [#74](https://github.com/gogorichie/gogorichieblog/pull/74) in [gogorichie/gogorichieblog](https://github.com/gogorichie/gogorichieblog)
-4. 💪 Opened PR [#14](https://github.com/gogorichie/esphome_esp32_s3_matrix/pull/14) in [gogorichie/esphome_esp32_s3_matrix](https://github.com/gogorichie/esphome_esp32_s3_matrix)
-5. ❗ Opened issue [#7](https://github.com/gogorichie/gogorichie/issues/7) in [gogorichie/gogorichie](https://github.com/gogorichie/gogorichie)
+1. 💪 Opened PR [#16](https://github.com/gogorichie/esphome_esp32_s3_matrix/pull/16) in [gogorichie/esphome_esp32_s3_matrix](https://github.com/gogorichie/esphome_esp32_s3_matrix)
+2. 💪 Opened PR [#75](https://github.com/gogorichie/gogorichieblog/pull/75) in [gogorichie/gogorichieblog](https://github.com/gogorichie/gogorichieblog)
+3. 🎉 Merged PR [#74](https://github.com/gogorichie/gogorichieblog/pull/74) in [gogorichie/gogorichieblog](https://github.com/gogorichie/gogorichieblog)
+4. 💪 Opened PR [#74](https://github.com/gogorichie/gogorichieblog/pull/74) in [gogorichie/gogorichieblog](https://github.com/gogorichie/gogorichieblog)
+5. 💪 Opened PR [#14](https://github.com/gogorichie/esphome_esp32_s3_matrix/pull/14) in [gogorichie/esphome_esp32_s3_matrix](https://github.com/gogorichie/esphome_esp32_s3_matrix)
 <!--END_SECTION:activity-->
 
