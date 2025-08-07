@@ -10,10 +10,10 @@
 
 # Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#77](https://github.com/gogorichie/gogorichieblog/pull/77) in [gogorichie/gogorichieblog](https://github.com/gogorichie/gogorichieblog)
-2. 💪 Opened PR [#77](https://github.com/gogorichie/gogorichieblog/pull/77) in [gogorichie/gogorichieblog](https://github.com/gogorichie/gogorichieblog)
-3. 🎉 Merged PR [#75](https://github.com/gogorichie/gogorichieblog/pull/75) in [gogorichie/gogorichieblog](https://github.com/gogorichie/gogorichieblog)
-4. ❌ Reopened PR [#75](https://github.com/gogorichie/gogorichieblog/pull/75) in [gogorichie/gogorichieblog](https://github.com/gogorichie/gogorichieblog)
-5. ❌ Closed PR [#75](https://github.com/gogorichie/gogorichieblog/pull/75) in [gogorichie/gogorichieblog](https://github.com/gogorichie/gogorichieblog)
+1. 💪 Opened PR [#35](https://github.com/Profisee/kubernetes/pull/35) in [Profisee/kubernetes](https://github.com/Profisee/kubernetes)
+2. 🎉 Merged PR [#77](https://github.com/gogorichie/gogorichieblog/pull/77) in [gogorichie/gogorichieblog](https://github.com/gogorichie/gogorichieblog)
+3. 💪 Opened PR [#77](https://github.com/gogorichie/gogorichieblog/pull/77) in [gogorichie/gogorichieblog](https://github.com/gogorichie/gogorichieblog)
+4. 🎉 Merged PR [#75](https://github.com/gogorichie/gogorichieblog/pull/75) in [gogorichie/gogorichieblog](https://github.com/gogorichie/gogorichieblog)
+5. ❌ Reopened PR [#75](https://github.com/gogorichie/gogorichieblog/pull/75) in [gogorichie/gogorichieblog](https://github.com/gogorichie/gogorichieblog)
 <!--END_SECTION:activity-->
 
