@@ -10,10 +10,10 @@
 
 # Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/gogorichie/esphome_esp32_s3_matrix/pull/17) in [gogorichie/esphome_esp32_s3_matrix](https://github.com/gogorichie/esphome_esp32_s3_matrix)
-2. 🎉 Merged PR [#18](https://github.com/gogorichie/esphome_esp32_s3_matrix/pull/18) in [gogorichie/esphome_esp32_s3_matrix](https://github.com/gogorichie/esphome_esp32_s3_matrix)
-3. 🗣 Commented on [#17](https://github.com/gogorichie/esphome_esp32_s3_matrix/pull/17#issuecomment-3193887445) in [gogorichie/esphome_esp32_s3_matrix](https://github.com/gogorichie/esphome_esp32_s3_matrix)
-4. 🗣 Commented on [#18](https://github.com/gogorichie/esphome_esp32_s3_matrix/pull/18#issuecomment-3193887131) in [gogorichie/esphome_esp32_s3_matrix](https://github.com/gogorichie/esphome_esp32_s3_matrix)
-5. ❌ Reopened PR [#17](https://github.com/gogorichie/esphome_esp32_s3_matrix/pull/17) in [gogorichie/esphome_esp32_s3_matrix](https://github.com/gogorichie/esphome_esp32_s3_matrix)
+1. 🎉 Merged PR [#21](https://github.com/gogorichie/esphome_esp32_s3_matrix/pull/21) in [gogorichie/esphome_esp32_s3_matrix](https://github.com/gogorichie/esphome_esp32_s3_matrix)
+2. 💪 Opened PR [#21](https://github.com/gogorichie/esphome_esp32_s3_matrix/pull/21) in [gogorichie/esphome_esp32_s3_matrix](https://github.com/gogorichie/esphome_esp32_s3_matrix)
+3. 🎉 Merged PR [#17](https://github.com/gogorichie/esphome_esp32_s3_matrix/pull/17) in [gogorichie/esphome_esp32_s3_matrix](https://github.com/gogorichie/esphome_esp32_s3_matrix)
+4. 🎉 Merged PR [#18](https://github.com/gogorichie/esphome_esp32_s3_matrix/pull/18) in [gogorichie/esphome_esp32_s3_matrix](https://github.com/gogorichie/esphome_esp32_s3_matrix)
+5. 🗣 Commented on [#17](https://github.com/gogorichie/esphome_esp32_s3_matrix/pull/17#issuecomment-3193887445) in [gogorichie/esphome_esp32_s3_matrix](https://github.com/gogorichie/esphome_esp32_s3_matrix)
 <!--END_SECTION:activity-->
 
