@@ -10,10 +10,10 @@
 
 # Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/gogorichie/Terraform-ContosoFinance-Demo/pull/11) in [gogorichie/Terraform-ContosoFinance-Demo](https://github.com/gogorichie/Terraform-ContosoFinance-Demo)
-2. 🎉 Merged PR [#21](https://github.com/gogorichie/esphome_esp32_s3_matrix/pull/21) in [gogorichie/esphome_esp32_s3_matrix](https://github.com/gogorichie/esphome_esp32_s3_matrix)
-3. 💪 Opened PR [#21](https://github.com/gogorichie/esphome_esp32_s3_matrix/pull/21) in [gogorichie/esphome_esp32_s3_matrix](https://github.com/gogorichie/esphome_esp32_s3_matrix)
-4. 🎉 Merged PR [#17](https://github.com/gogorichie/esphome_esp32_s3_matrix/pull/17) in [gogorichie/esphome_esp32_s3_matrix](https://github.com/gogorichie/esphome_esp32_s3_matrix)
-5. 🎉 Merged PR [#18](https://github.com/gogorichie/esphome_esp32_s3_matrix/pull/18) in [gogorichie/esphome_esp32_s3_matrix](https://github.com/gogorichie/esphome_esp32_s3_matrix)
+1. 🎉 Merged PR [#8](https://github.com/gogorichie/gogorichie/pull/8) in [gogorichie/gogorichie](https://github.com/gogorichie/gogorichie)
+2. 🎉 Merged PR [#11](https://github.com/gogorichie/Terraform-ContosoFinance-Demo/pull/11) in [gogorichie/Terraform-ContosoFinance-Demo](https://github.com/gogorichie/Terraform-ContosoFinance-Demo)
+3. 🎉 Merged PR [#21](https://github.com/gogorichie/esphome_esp32_s3_matrix/pull/21) in [gogorichie/esphome_esp32_s3_matrix](https://github.com/gogorichie/esphome_esp32_s3_matrix)
+4. 💪 Opened PR [#21](https://github.com/gogorichie/esphome_esp32_s3_matrix/pull/21) in [gogorichie/esphome_esp32_s3_matrix](https://github.com/gogorichie/esphome_esp32_s3_matrix)
+5. 🎉 Merged PR [#17](https://github.com/gogorichie/esphome_esp32_s3_matrix/pull/17) in [gogorichie/esphome_esp32_s3_matrix](https://github.com/gogorichie/esphome_esp32_s3_matrix)
 <!--END_SECTION:activity-->
 
