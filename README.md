@@ -1,10 +1,10 @@
 # Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [My Favorite VSCode Plugins Of 2025](https://www.gogorichie.com/blog/microsoft/2025_fav_vscode_plugins/2025_fav_vscode_plugins/)
 - [Exploring Azure Resource Usage and Ownership with Azure Resource Graph](https://www.gogorichie.com/blog/microsoft/azure-resource-graph/)
 - [Why I Left WordPress &lpar;And Never Looked Back&rpar;](https://www.gogorichie.com/blog/microsoft/so-long-wordpress/)
 - [How I Automated Meeting Presence for My Family](https://www.gogorichie.com/blog/office-meeting-indicator/)
 - [Git vs Azure DevOps vs GitHub: Understanding the Differences](https://www.gogorichie.com/blog/microsoft/gitvsghvsado/)
-- [How I Stream My Church Service to YouTube and Facebook](https://www.gogorichie.com/blog/church_live_stream/)
 <!-- BLOG-POST-LIST:END -->
 
 
