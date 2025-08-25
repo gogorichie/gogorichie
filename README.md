@@ -10,10 +10,10 @@
 
 # Recent Github Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#79](https://github.com/gogorichie/gogorichieblog/pull/79) in [gogorichie/gogorichieblog](https://github.com/gogorichie/gogorichieblog)
-2. 🎉 Merged PR [#78](https://github.com/gogorichie/gogorichieblog/pull/78) in [gogorichie/gogorichieblog](https://github.com/gogorichie/gogorichieblog)
-3. 💪 Opened PR [#78](https://github.com/gogorichie/gogorichieblog/pull/78) in [gogorichie/gogorichieblog](https://github.com/gogorichie/gogorichieblog)
-4. 🎉 Merged PR [#8](https://github.com/gogorichie/gogorichie/pull/8) in [gogorichie/gogorichie](https://github.com/gogorichie/gogorichie)
-5. 🎉 Merged PR [#11](https://github.com/gogorichie/Terraform-ContosoFinance-Demo/pull/11) in [gogorichie/Terraform-ContosoFinance-Demo](https://github.com/gogorichie/Terraform-ContosoFinance-Demo)
+1. 🗣 Commented on [#79](https://github.com/gogorichie/gogorichieblog/pull/79#issuecomment-3218602444) in [gogorichie/gogorichieblog](https://github.com/gogorichie/gogorichieblog)
+2. 🎉 Merged PR [#79](https://github.com/gogorichie/gogorichieblog/pull/79) in [gogorichie/gogorichieblog](https://github.com/gogorichie/gogorichieblog)
+3. 💪 Opened PR [#79](https://github.com/gogorichie/gogorichieblog/pull/79) in [gogorichie/gogorichieblog](https://github.com/gogorichie/gogorichieblog)
+4. 🎉 Merged PR [#78](https://github.com/gogorichie/gogorichieblog/pull/78) in [gogorichie/gogorichieblog](https://github.com/gogorichie/gogorichieblog)
+5. 💪 Opened PR [#78](https://github.com/gogorichie/gogorichieblog/pull/78) in [gogorichie/gogorichieblog](https://github.com/gogorichie/gogorichieblog)
 <!--END_SECTION:activity-->
 
