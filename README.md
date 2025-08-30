@@ -10,10 +10,10 @@
 
 # Recent Github Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#80](https://github.com/gogorichie/gogorichieblog/pull/80) in [gogorichie/gogorichieblog](https://github.com/gogorichie/gogorichieblog)
-2. 🗣 Commented on [#79](https://github.com/gogorichie/gogorichieblog/pull/79#issuecomment-3218602444) in [gogorichie/gogorichieblog](https://github.com/gogorichie/gogorichieblog)
-3. 🎉 Merged PR [#79](https://github.com/gogorichie/gogorichieblog/pull/79) in [gogorichie/gogorichieblog](https://github.com/gogorichie/gogorichieblog)
-4. 💪 Opened PR [#79](https://github.com/gogorichie/gogorichieblog/pull/79) in [gogorichie/gogorichieblog](https://github.com/gogorichie/gogorichieblog)
-5. 🎉 Merged PR [#78](https://github.com/gogorichie/gogorichieblog/pull/78) in [gogorichie/gogorichieblog](https://github.com/gogorichie/gogorichieblog)
+1. 🎉 Merged PR [#80](https://github.com/gogorichie/gogorichieblog/pull/80) in [gogorichie/gogorichieblog](https://github.com/gogorichie/gogorichieblog)
+2. 💪 Opened PR [#80](https://github.com/gogorichie/gogorichieblog/pull/80) in [gogorichie/gogorichieblog](https://github.com/gogorichie/gogorichieblog)
+3. 🗣 Commented on [#79](https://github.com/gogorichie/gogorichieblog/pull/79#issuecomment-3218602444) in [gogorichie/gogorichieblog](https://github.com/gogorichie/gogorichieblog)
+4. 🎉 Merged PR [#79](https://github.com/gogorichie/gogorichieblog/pull/79) in [gogorichie/gogorichieblog](https://github.com/gogorichie/gogorichieblog)
+5. 💪 Opened PR [#79](https://github.com/gogorichie/gogorichieblog/pull/79) in [gogorichie/gogorichieblog](https://github.com/gogorichie/gogorichieblog)
 <!--END_SECTION:activity-->
 
