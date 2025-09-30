@@ -10,7 +10,7 @@
 
 # Recent Github Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#82](undefined) in [gogorichie/gogorichieblog](https://github.com/gogorichie/gogorichieblog)
+1. 🎉 Merged PR [#22](https://github.com/gogorichie/esphome_esp32_s3_matrix/pull/22) in [gogorichie/esphome_esp32_s3_matrix](https://github.com/gogorichie/esphome_esp32_s3_matrix)
 2. 🎉 Merged PR [#23](https://github.com/gogorichie/esphome_esp32_s3_matrix/pull/23) in [gogorichie/esphome_esp32_s3_matrix](https://github.com/gogorichie/esphome_esp32_s3_matrix)
 3. 🎉 Merged PR [#81](https://github.com/gogorichie/gogorichieblog/pull/81) in [gogorichie/gogorichieblog](https://github.com/gogorichie/gogorichieblog)
 4. 💪 Opened PR [#81](https://github.com/gogorichie/gogorichieblog/pull/81) in [gogorichie/gogorichieblog](https://github.com/gogorichie/gogorichieblog)
