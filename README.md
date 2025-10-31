@@ -10,10 +10,10 @@
 
 # Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/Gogorichielab/PPCollection/pull/8#issuecomment-3470769390) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-2. 💪 Opened PR [#8](undefined) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-3. ❌ Labeled PR [#13](undefined) in [gogorichie/Terraform-ContosoFinance-Demo](https://github.com/gogorichie/Terraform-ContosoFinance-Demo)
+1. 🗣 Commented on [#26](https://github.com/gogorichie/esphome_esp32_s3_matrix/pull/26#issuecomment-3474012372) in [gogorichie/esphome_esp32_s3_matrix](https://github.com/gogorichie/esphome_esp32_s3_matrix)
+2. 🗣 Commented on [#8](https://github.com/Gogorichielab/PPCollection/pull/8#issuecomment-3470769390) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+3. 💪 Opened PR [#8](undefined) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
 4. ❌ Labeled PR [#13](undefined) in [gogorichie/Terraform-ContosoFinance-Demo](https://github.com/gogorichie/Terraform-ContosoFinance-Demo)
-5. ❌ Closed PR [#85](undefined) in [gogorichie/gogorichieblog](https://github.com/gogorichie/gogorichieblog)
+5. ❌ Labeled PR [#13](undefined) in [gogorichie/Terraform-ContosoFinance-Demo](https://github.com/gogorichie/Terraform-ContosoFinance-Demo)
 <!--END_SECTION:activity-->
 
