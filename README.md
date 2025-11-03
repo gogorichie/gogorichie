@@ -10,10 +10,10 @@
 
 # Recent Github Activity
 <!--START_SECTION:activity-->
-1.  Labeled issue [#28](https://github.com/Gogorichielab/PPCollection/issues/28) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-2. ❗ Opened issue [#28](https://github.com/Gogorichielab/PPCollection/issues/28) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-3.  Assigned issue [#28](https://github.com/Gogorichielab/PPCollection/issues/28) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-4.  Labeled issue [#27](https://github.com/Gogorichielab/PPCollection/issues/27) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-5. ❗ Opened issue [#27](https://github.com/Gogorichielab/PPCollection/issues/27) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+1.  Assigned issue [#27](https://github.com/Gogorichielab/PPCollection/issues/27) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+2.  Assigned issue [#30](https://github.com/Gogorichielab/PPCollection/issues/30) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+3. ❗ Opened issue [#30](https://github.com/Gogorichielab/PPCollection/issues/30) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+4. 🔒 Closed issue [#28](https://github.com/Gogorichielab/PPCollection/issues/28) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+5. ❌ Closed PR [#29](undefined) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
 <!--END_SECTION:activity-->
 
