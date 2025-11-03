@@ -10,10 +10,10 @@
 
 # Recent Github Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#41](https://github.com/Gogorichielab/PPCollection/issues/41) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-2. ❗ Opened issue [#40](https://github.com/Gogorichielab/PPCollection/issues/40) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-3. 🗣 Commented on [#38](https://github.com/Gogorichielab/PPCollection/pull/38#issuecomment-3482762502) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-4. ❌ Labeled PR [#39](undefined) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-5. 💪 Opened PR [#39](undefined) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+1.  Labeled issue [#43](https://github.com/Gogorichielab/PPCollection/issues/43) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+2. ❗ Opened issue [#43](https://github.com/Gogorichielab/PPCollection/issues/43) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+3.  Assigned issue [#41](https://github.com/Gogorichielab/PPCollection/issues/41) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+4. ❗ Opened issue [#41](https://github.com/Gogorichielab/PPCollection/issues/41) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+5. ❗ Opened issue [#40](https://github.com/Gogorichielab/PPCollection/issues/40) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
 <!--END_SECTION:activity-->
 
