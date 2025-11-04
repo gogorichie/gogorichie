@@ -10,10 +10,10 @@
 
 # Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#50](https://github.com/Gogorichielab/PPCollection/pull/50#issuecomment-3483434325) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-2. 🗣 Commented on [#50](https://github.com/Gogorichielab/PPCollection/pull/50#issuecomment-3483397084) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-3. 🗣 Commented on [#50](https://github.com/Gogorichielab/PPCollection/pull/50#issuecomment-3483336422) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-4.  Assigned issue [#40](https://github.com/Gogorichielab/PPCollection/issues/40) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-5. ❌ Closed PR [#48](undefined) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+1. ❌ Closed PR [#50](undefined) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+2. ❌ Closed PR [#51](undefined) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+3. 💪 Opened PR [#51](undefined) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+4. 🗣 Commented on [#50](https://github.com/Gogorichielab/PPCollection/pull/50#issuecomment-3483434325) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+5. 🗣 Commented on [#50](https://github.com/Gogorichielab/PPCollection/pull/50#issuecomment-3483397084) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
 <!--END_SECTION:activity-->
 
