@@ -10,10 +10,10 @@
 
 # Recent Github Activity
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#65](undefined) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-2. 💪 Opened PR [#65](undefined) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-3. 🔓 Reopened issue [#3383](https://github.com/infracost/infracost/issues/3383) in [infracost/infracost](https://github.com/infracost/infracost)
-4. 🔒 Closed issue [#3383](https://github.com/infracost/infracost/issues/3383) in [infracost/infracost](https://github.com/infracost/infracost)
-5. 🗣 Commented on [#62](https://github.com/Gogorichielab/PPCollection/pull/62#issuecomment-3494065856) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+1. 🚀 Published release [v1.0.0](https://github.com/gogorichie/wave/releases/tag/v1.0.0) in [gogorichie/wave](https://github.com/gogorichie/wave)
+2. ❗ Opened issue [#4](https://github.com/gogorichie/wave/issues/4) in [gogorichie/wave](https://github.com/gogorichie/wave)
+3. ❗ Opened issue [#3](https://github.com/gogorichie/wave/issues/3) in [gogorichie/wave](https://github.com/gogorichie/wave)
+4. ❗ Opened issue [#2](https://github.com/gogorichie/wave/issues/2) in [gogorichie/wave](https://github.com/gogorichie/wave)
+5. ❌ Labeled PR [#65](undefined) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
 <!--END_SECTION:activity-->
 
