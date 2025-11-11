@@ -10,10 +10,10 @@
 
 # Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/gogorichie/wave/pull/13#issuecomment-3516849555) in [gogorichie/wave](https://github.com/gogorichie/wave)
-2.  Assigned issue [#12](https://github.com/gogorichie/wave/issues/12) in [gogorichie/wave](https://github.com/gogorichie/wave)
-3. ❗ Opened issue [#12](https://github.com/gogorichie/wave/issues/12) in [gogorichie/wave](https://github.com/gogorichie/wave)
-4. 🔒 Closed issue [#7](https://github.com/gogorichie/wave/issues/7) in [gogorichie/wave](https://github.com/gogorichie/wave)
-5.  Assigned issue [#7](https://github.com/gogorichie/wave/issues/7) in [gogorichie/wave](https://github.com/gogorichie/wave)
+1. 🔒 Closed issue [#12](https://github.com/gogorichie/wave/issues/12) in [gogorichie/wave](https://github.com/gogorichie/wave)
+2. 🗣 Commented on [#13](https://github.com/gogorichie/wave/pull/13#issuecomment-3516918928) in [gogorichie/wave](https://github.com/gogorichie/wave)
+3. 🗣 Commented on [#13](https://github.com/gogorichie/wave/pull/13#issuecomment-3516849555) in [gogorichie/wave](https://github.com/gogorichie/wave)
+4.  Assigned issue [#12](https://github.com/gogorichie/wave/issues/12) in [gogorichie/wave](https://github.com/gogorichie/wave)
+5. ❗ Opened issue [#12](https://github.com/gogorichie/wave/issues/12) in [gogorichie/wave](https://github.com/gogorichie/wave)
 <!--END_SECTION:activity-->
 
