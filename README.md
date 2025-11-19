@@ -11,9 +11,9 @@
 # Recent Github Activity
 <!--START_SECTION:activity-->
 1.  Assigned issue [#22](https://github.com/gogorichie/wave/issues/22) in [gogorichie/wave](https://github.com/gogorichie/wave)
-2. ❗ Opened issue [#22](https://github.com/gogorichie/wave/issues/22) in [gogorichie/wave](https://github.com/gogorichie/wave)
-3. 💪 Opened PR [#77](undefined) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-4. 🔒 Closed issue [#44](https://github.com/Gogorichielab/PPCollection/issues/44) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-5.  Assigned issue [#44](https://github.com/Gogorichielab/PPCollection/issues/44) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+2.  Unassigned issue [#22](https://github.com/gogorichie/wave/issues/22) in [gogorichie/wave](https://github.com/gogorichie/wave)
+3. 🗣 Commented on [#22](https://github.com/gogorichie/wave/issues/22#issuecomment-3550099192) in [gogorichie/wave](https://github.com/gogorichie/wave)
+4.  Assigned issue [#22](https://github.com/gogorichie/wave/issues/22) in [gogorichie/wave](https://github.com/gogorichie/wave)
+5. ❗ Opened issue [#22](https://github.com/gogorichie/wave/issues/22) in [gogorichie/wave](https://github.com/gogorichie/wave)
 <!--END_SECTION:activity-->
 
