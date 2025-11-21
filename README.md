@@ -10,10 +10,10 @@
 
 # Recent Github Activity
 <!--START_SECTION:activity-->
-1.  Labeled issue [#6](https://github.com/gogorichie/wave/issues/6) in [gogorichie/wave](https://github.com/gogorichie/wave)
-2. ❗ Opened issue [#36](https://github.com/gogorichie/wave/issues/36) in [gogorichie/wave](https://github.com/gogorichie/wave)
-3. ❗ Opened issue [#35](https://github.com/gogorichie/wave/issues/35) in [gogorichie/wave](https://github.com/gogorichie/wave)
-4. ❗ Opened issue [#34](https://github.com/gogorichie/wave/issues/34) in [gogorichie/wave](https://github.com/gogorichie/wave)
-5. ❗ Opened issue [#33](https://github.com/gogorichie/wave/issues/33) in [gogorichie/wave](https://github.com/gogorichie/wave)
+1.  Assigned issue [#6](https://github.com/gogorichie/wave/issues/6) in [gogorichie/wave](https://github.com/gogorichie/wave)
+2.  Labeled issue [#6](https://github.com/gogorichie/wave/issues/6) in [gogorichie/wave](https://github.com/gogorichie/wave)
+3. ❗ Opened issue [#36](https://github.com/gogorichie/wave/issues/36) in [gogorichie/wave](https://github.com/gogorichie/wave)
+4. ❗ Opened issue [#35](https://github.com/gogorichie/wave/issues/35) in [gogorichie/wave](https://github.com/gogorichie/wave)
+5. ❗ Opened issue [#34](https://github.com/gogorichie/wave/issues/34) in [gogorichie/wave](https://github.com/gogorichie/wave)
 <!--END_SECTION:activity-->
 
