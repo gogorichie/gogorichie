@@ -10,10 +10,10 @@
 
 # Recent Github Activity
 <!--START_SECTION:activity-->
-1.  Labeled issue [#30](https://github.com/gogorichie/wave/issues/30) in [gogorichie/wave](https://github.com/gogorichie/wave)
-2. ❗ Opened issue [#30](https://github.com/gogorichie/wave/issues/30) in [gogorichie/wave](https://github.com/gogorichie/wave)
-3. 🗣 Commented on [#29](https://github.com/gogorichie/wave/pull/29#issuecomment-3560655555) in [gogorichie/wave](https://github.com/gogorichie/wave)
-4. 🗣 Commented on [#27](https://github.com/gogorichie/wave/pull/27#issuecomment-3560552515) in [gogorichie/wave](https://github.com/gogorichie/wave)
-5. ❌ Labeled PR [#27](undefined) in [gogorichie/wave](https://github.com/gogorichie/wave)
+1. 💪 Opened PR [#31](undefined) in [gogorichie/wave](https://github.com/gogorichie/wave)
+2.  Labeled issue [#30](https://github.com/gogorichie/wave/issues/30) in [gogorichie/wave](https://github.com/gogorichie/wave)
+3. ❗ Opened issue [#30](https://github.com/gogorichie/wave/issues/30) in [gogorichie/wave](https://github.com/gogorichie/wave)
+4. 🗣 Commented on [#29](https://github.com/gogorichie/wave/pull/29#issuecomment-3560655555) in [gogorichie/wave](https://github.com/gogorichie/wave)
+5. 🗣 Commented on [#27](https://github.com/gogorichie/wave/pull/27#issuecomment-3560552515) in [gogorichie/wave](https://github.com/gogorichie/wave)
 <!--END_SECTION:activity-->
 
