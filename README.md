@@ -14,6 +14,6 @@
 2. 💪 Opened PR [#46](undefined) in [gogorichie/wave](https://github.com/gogorichie/wave)
 3. ❌ Labeled PR [#45](undefined) in [gogorichie/wave](https://github.com/gogorichie/wave)
 4. 💪 Opened PR [#45](undefined) in [gogorichie/wave](https://github.com/gogorichie/wave)
-5. 🚀 Published release [v1.0.1](https://github.com/gogorichie/wave/releases/tag/v1.1.0) in [gogorichie/wave](https://github.com/gogorichie/wave)
+5. 🚀 Published release [v1.1.0](https://github.com/gogorichie/wave/releases/tag/v1.1.0) in [gogorichie/wave](https://github.com/gogorichie/wave)
 <!--END_SECTION:activity-->
 
