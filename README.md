@@ -10,10 +10,10 @@
 
 # Recent Github Activity
 <!--START_SECTION:activity-->
-1. ❌ Assigned PR [#38](undefined) in [gogorichie/wave](https://github.com/gogorichie/wave)
-2. ❌ Unassigned PR [#38](undefined) in [gogorichie/wave](https://github.com/gogorichie/wave)
-3. ❌ Unassigned PR [#38](undefined) in [gogorichie/wave](https://github.com/gogorichie/wave)
-4.  Unassigned issue [#32](https://github.com/gogorichie/wave/issues/32) in [gogorichie/wave](https://github.com/gogorichie/wave)
-5.  Assigned issue [#32](https://github.com/gogorichie/wave/issues/32) in [gogorichie/wave](https://github.com/gogorichie/wave)
+1.  Assigned issue [#35](https://github.com/gogorichie/wave/issues/35) in [gogorichie/wave](https://github.com/gogorichie/wave)
+2.  Assigned issue [#32](https://github.com/gogorichie/wave/issues/32) in [gogorichie/wave](https://github.com/gogorichie/wave)
+3. ❌ Closed PR [#38](undefined) in [gogorichie/wave](https://github.com/gogorichie/wave)
+4. ❌ Unassigned PR [#38](undefined) in [gogorichie/wave](https://github.com/gogorichie/wave)
+5. ❌ Assigned PR [#38](undefined) in [gogorichie/wave](https://github.com/gogorichie/wave)
 <!--END_SECTION:activity-->
 
