@@ -10,10 +10,10 @@
 
 # Recent Github Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#85](undefined) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-2. ❌ Closed PR [#45](undefined) in [gogorichie/wave](https://github.com/gogorichie/wave)
-3. ❌ Labeled PR [#82](undefined) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-4. 💪 Opened PR [#82](undefined) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-5. ❌ Labeled PR [#50](undefined) in [gogorichie/wave](https://github.com/gogorichie/wave)
+1. 💪 Opened PR [#51](undefined) in [gogorichie/wave](https://github.com/gogorichie/wave)
+2. 💪 Opened PR [#85](undefined) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+3. ❌ Closed PR [#45](undefined) in [gogorichie/wave](https://github.com/gogorichie/wave)
+4. ❌ Labeled PR [#82](undefined) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+5. 💪 Opened PR [#82](undefined) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
 <!--END_SECTION:activity-->
 
