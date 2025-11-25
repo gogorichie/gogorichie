@@ -10,10 +10,10 @@
 
 # Recent Github Activity
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#104](undefined) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-2. 💪 Opened PR [#104](undefined) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-3. ❌ Labeled PR [#103](undefined) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-4. 💪 Opened PR [#103](undefined) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-5. ❌ Labeled PR [#102](undefined) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+1. 🚀 Published release [v1.5.3](https://github.com/Gogorichielab/PPCollection/releases/tag/v1.5.3) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+2. ❌ Labeled PR [#105](undefined) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+3. 💪 Opened PR [#105](undefined) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+4. ❌ Labeled PR [#104](undefined) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+5. 💪 Opened PR [#104](undefined) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
 <!--END_SECTION:activity-->
 
