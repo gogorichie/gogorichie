@@ -10,9 +10,9 @@
 
 # Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#90](https://github.com/gogorichie/gogorichieblog/pull/90) in [gogorichie/gogorichieblog](https://github.com/gogorichie/gogorichieblog)
-2. 💪 Opened PR [#90](https://github.com/gogorichie/gogorichieblog/pull/90) in [gogorichie/gogorichieblog](https://github.com/gogorichie/gogorichieblog)
-3. 🗣 Commented on [#35](https://github.com/Profisee/kubernetes/pull/35#issuecomment-3744939826) in [Profisee/kubernetes](https://github.com/Profisee/kubernetes)
+1. ❌ Closed PR [#143](https://github.com/Gogorichielab/PPCollection/pull/143) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+2. 🎉 Merged PR [#90](https://github.com/gogorichie/gogorichieblog/pull/90) in [gogorichie/gogorichieblog](https://github.com/gogorichie/gogorichieblog)
+3. 💪 Opened PR [#90](https://github.com/gogorichie/gogorichieblog/pull/90) in [gogorichie/gogorichieblog](https://github.com/gogorichie/gogorichieblog)
 4. ❌ Closed PR [#35](https://github.com/Profisee/kubernetes/pull/35) in [Profisee/kubernetes](https://github.com/Profisee/kubernetes)
 5. ❌ Closed PR [#125](https://github.com/Gogorichielab/PPCollection/pull/125) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
 <!--END_SECTION:activity-->
