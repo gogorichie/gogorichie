@@ -10,10 +10,10 @@
 
 # Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#145](https://github.com/Gogorichielab/PPCollection/pull/145) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-2. 💪 Opened PR [#145](https://github.com/Gogorichielab/PPCollection/pull/145) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-3. ❌ Closed PR [#143](https://github.com/Gogorichielab/PPCollection/pull/143) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-4. 🎉 Merged PR [#90](https://github.com/gogorichie/gogorichieblog/pull/90) in [gogorichie/gogorichieblog](https://github.com/gogorichie/gogorichieblog)
-5. 💪 Opened PR [#90](https://github.com/gogorichie/gogorichieblog/pull/90) in [gogorichie/gogorichieblog](https://github.com/gogorichie/gogorichieblog)
+1. 🗣 Commented on [#31061](https://github.com/Koenkk/zigbee2mqtt/issues/31061#issuecomment-3904224036) in [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
+2. 🎉 Merged PR [#145](https://github.com/Gogorichielab/PPCollection/pull/145) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+3. 💪 Opened PR [#145](https://github.com/Gogorichielab/PPCollection/pull/145) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+4. ❌ Closed PR [#143](https://github.com/Gogorichielab/PPCollection/pull/143) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+5. 🎉 Merged PR [#90](https://github.com/gogorichie/gogorichieblog/pull/90) in [gogorichie/gogorichieblog](https://github.com/gogorichie/gogorichieblog)
 <!--END_SECTION:activity-->
 
