@@ -10,9 +10,9 @@
 
 # Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/gogorichie/esphome-esp32-2432s028r/pull/4) in [gogorichie/esphome-esp32-2432s028r](https://github.com/gogorichie/esphome-esp32-2432s028r)
-2. ℹ️ Labeled PR [#4](https://github.com/gogorichie/esphome-esp32-2432s028r/pull/4) in [gogorichie/esphome-esp32-2432s028r](https://github.com/gogorichie/esphome-esp32-2432s028r)
-3. 💪 Opened PR [#4](https://github.com/gogorichie/esphome-esp32-2432s028r/pull/4) in [gogorichie/esphome-esp32-2432s028r](https://github.com/gogorichie/esphome-esp32-2432s028r)
+1. 🎉 Merged PR [#4](https://github.com/gogorichie/esphome_esp32_2432s028r/pull/4) in [gogorichie/esphome_esp32_2432s028r](https://github.com/gogorichie/esphome_esp32_2432s028r)
+2. ℹ️ Labeled PR [#4](https://github.com/gogorichie/esphome_esp32_2432s028r/pull/4) in [gogorichie/esphome_esp32_2432s028r](https://github.com/gogorichie/esphome_esp32_2432s028r)
+3. 💪 Opened PR [#4](https://github.com/gogorichie/esphome_esp32_2432s028r/pull/4) in [gogorichie/esphome_esp32_2432s028r](https://github.com/gogorichie/esphome_esp32_2432s028r)
 4. 🗣 Commented on [#31061](https://github.com/Koenkk/zigbee2mqtt/issues/31061#issuecomment-3904224036) in [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
 5. 🎉 Merged PR [#145](https://github.com/Gogorichielab/PPCollection/pull/145) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
 <!--END_SECTION:activity-->
