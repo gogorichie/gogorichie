@@ -10,10 +10,10 @@
 
 # Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/gogorichie/esphome_esp32_2432s028r/pull/7) in [gogorichie/esphome_esp32_2432s028r](https://github.com/gogorichie/esphome_esp32_2432s028r)
-2. 💪 Opened PR [#7](https://github.com/gogorichie/esphome_esp32_2432s028r/pull/7) in [gogorichie/esphome_esp32_2432s028r](https://github.com/gogorichie/esphome_esp32_2432s028r)
-3. 🎉 Merged PR [#4](https://github.com/gogorichie/esphome_esp32_2432s028r/pull/4) in [gogorichie/esphome_esp32_2432s028r](https://github.com/gogorichie/esphome_esp32_2432s028r)
-4. ℹ️ Labeled PR [#4](https://github.com/gogorichie/esphome_esp32_2432s028r/pull/4) in [gogorichie/esphome_esp32_2432s028r](https://github.com/gogorichie/esphome_esp32_2432s028r)
-5. 💪 Opened PR [#4](https://github.com/gogorichie/esphome_esp32_2432s028r/pull/4) in [gogorichie/esphome_esp32_2432s028r](https://github.com/gogorichie/esphome_esp32_2432s028r)
+1. ℹ️ Labeled issue [#152](https://github.com/Gogorichielab/PPCollection/issues/152) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+2. ❗ Opened issue [#152](https://github.com/Gogorichielab/PPCollection/issues/152) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+3. ℹ️ Labeled issue [#151](https://github.com/Gogorichielab/PPCollection/issues/151) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+4. ❗ Opened issue [#151](https://github.com/Gogorichielab/PPCollection/issues/151) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+5. ℹ️ Labeled issue [#150](https://github.com/Gogorichielab/PPCollection/issues/150) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
 <!--END_SECTION:activity-->
 
