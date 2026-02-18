@@ -10,10 +10,10 @@
 
 # Recent Github Activity
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#195](https://github.com/Gogorichielab/PPCollection/issues/195) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+1. 🔒 Closed issue [#195](https://github.com/Gogorichielab/PPCollection/issues/195) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
 2. ℹ️ Assigned issue [#195](https://github.com/Gogorichielab/PPCollection/issues/195) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-3. ❗ Opened issue [#196](https://github.com/Gogorichielab/PPCollection/issues/196) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-4. ❗ Opened issue [#195](https://github.com/Gogorichielab/PPCollection/issues/195) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-5. 🔒 Closed issue [#165](https://github.com/Gogorichielab/PPCollection/issues/165) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+3. ℹ️ Assigned issue [#195](https://github.com/Gogorichielab/PPCollection/issues/195) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+4. ❗ Opened issue [#196](https://github.com/Gogorichielab/PPCollection/issues/196) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+5. ❗ Opened issue [#195](https://github.com/Gogorichielab/PPCollection/issues/195) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
 <!--END_SECTION:activity-->
 
