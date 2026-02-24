@@ -10,10 +10,10 @@
 
 # Recent Github Activity
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#211](https://github.com/Gogorichielab/PPCollection/issues/211) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+1. 💪 Opened PR [#64](https://github.com/gogorichie/wave/pull/64) in [gogorichie/wave](https://github.com/gogorichie/wave)
 2. ℹ️ Assigned issue [#211](https://github.com/Gogorichielab/PPCollection/issues/211) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-3. ℹ️ Unassigned issue [#211](https://github.com/Gogorichielab/PPCollection/issues/211) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-4. ℹ️ Assigned issue [#211](https://github.com/Gogorichielab/PPCollection/issues/211) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-5. ℹ️ Labeled issue [#18](https://github.com/Gogorichielab/gun-db/issues/18) in [Gogorichielab/gun-db](https://github.com/Gogorichielab/gun-db)
+3. ℹ️ Assigned issue [#211](https://github.com/Gogorichielab/PPCollection/issues/211) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+4. ℹ️ Unassigned issue [#211](https://github.com/Gogorichielab/PPCollection/issues/211) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+5. ℹ️ Assigned issue [#211](https://github.com/Gogorichielab/PPCollection/issues/211) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
 <!--END_SECTION:activity-->
 
