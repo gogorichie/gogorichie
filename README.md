@@ -10,10 +10,10 @@
 
 # Recent Github Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#64](https://github.com/gogorichie/wave/pull/64) in [gogorichie/wave](https://github.com/gogorichie/wave)
-2. 💪 Opened PR [#64](https://github.com/gogorichie/wave/pull/64) in [gogorichie/wave](https://github.com/gogorichie/wave)
-3. ℹ️ Assigned issue [#211](https://github.com/Gogorichielab/PPCollection/issues/211) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-4. ℹ️ Assigned issue [#211](https://github.com/Gogorichielab/PPCollection/issues/211) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-5. ℹ️ Unassigned issue [#211](https://github.com/Gogorichielab/PPCollection/issues/211) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+1. 💪 Opened PR [#228](https://github.com/Gogorichielab/PPCollection/pull/228) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+2. ❌ Closed PR [#213](https://github.com/Gogorichielab/PPCollection/pull/213) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+3. ❌ Closed PR [#64](https://github.com/gogorichie/wave/pull/64) in [gogorichie/wave](https://github.com/gogorichie/wave)
+4. 💪 Opened PR [#64](https://github.com/gogorichie/wave/pull/64) in [gogorichie/wave](https://github.com/gogorichie/wave)
+5. ℹ️ Assigned issue [#211](https://github.com/Gogorichielab/PPCollection/issues/211) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
 <!--END_SECTION:activity-->
 
