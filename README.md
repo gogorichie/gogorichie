@@ -10,10 +10,10 @@
 
 # Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#262](https://github.com/Gogorichielab/PPCollection/pull/262) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-2. 💪 Opened PR [#262](https://github.com/Gogorichielab/PPCollection/pull/262) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-3. 🎉 Merged PR [#252](https://github.com/Gogorichielab/PPCollection/pull/252) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-4. ℹ️ Labeled PR [#252](https://github.com/Gogorichielab/PPCollection/pull/252) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-5. 💪 Opened PR [#252](https://github.com/Gogorichielab/PPCollection/pull/252) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+1. ℹ️ Assigned issue [#263](https://github.com/Gogorichielab/PPCollection/issues/263) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+2. ℹ️ Assigned issue [#263](https://github.com/Gogorichielab/PPCollection/issues/263) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+3. ❗ Opened issue [#263](https://github.com/Gogorichielab/PPCollection/issues/263) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+4. 🎉 Merged PR [#262](https://github.com/Gogorichielab/PPCollection/pull/262) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+5. 💪 Opened PR [#262](https://github.com/Gogorichielab/PPCollection/pull/262) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
 <!--END_SECTION:activity-->
 
