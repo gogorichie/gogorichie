@@ -10,10 +10,10 @@
 
 # Recent Github Activity
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#278](https://github.com/Gogorichielab/PPCollection/pull/278) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+1. ℹ️ Labeled PR [#279](https://github.com/Gogorichielab/PPCollection/pull/279) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
 2. ℹ️ Labeled PR [#278](https://github.com/Gogorichielab/PPCollection/pull/278) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
 3. ℹ️ Labeled PR [#278](https://github.com/Gogorichielab/PPCollection/pull/278) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
 4. ℹ️ Labeled PR [#278](https://github.com/Gogorichielab/PPCollection/pull/278) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-5. 🎉 Merged PR [#276](https://github.com/Gogorichielab/PPCollection/pull/276) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+5. ℹ️ Labeled PR [#278](https://github.com/Gogorichielab/PPCollection/pull/278) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
 <!--END_SECTION:activity-->
 
