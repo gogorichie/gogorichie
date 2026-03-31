@@ -10,10 +10,10 @@
 
 # Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/Gogorichielab/mutli-tz/pull/4) in [Gogorichielab/mutli-tz](https://github.com/Gogorichielab/mutli-tz)
-2. 🗣 Commented on [#4](https://github.com/Gogorichielab/mutli-tz/pull/4#issuecomment-4163546477) in [Gogorichielab/mutli-tz](https://github.com/Gogorichielab/mutli-tz)
-3. 🎉 Merged PR [#5](https://github.com/Gogorichielab/mutli-tz/pull/5) in [Gogorichielab/mutli-tz](https://github.com/Gogorichielab/mutli-tz)
-4. ℹ️ Labeled PR [#5](https://github.com/Gogorichielab/mutli-tz/pull/5) in [Gogorichielab/mutli-tz](https://github.com/Gogorichielab/mutli-tz)
-5. 💪 Opened PR [#5](https://github.com/Gogorichielab/mutli-tz/pull/5) in [Gogorichielab/mutli-tz](https://github.com/Gogorichielab/mutli-tz)
+1. 🎉 Merged PR [#7](https://github.com/Gogorichielab/mutli-tz/pull/7) in [Gogorichielab/mutli-tz](https://github.com/Gogorichielab/mutli-tz)
+2. ℹ️ Labeled PR [#7](https://github.com/Gogorichielab/mutli-tz/pull/7) in [Gogorichielab/mutli-tz](https://github.com/Gogorichielab/mutli-tz)
+3. ℹ️ Labeled PR [#7](https://github.com/Gogorichielab/mutli-tz/pull/7) in [Gogorichielab/mutli-tz](https://github.com/Gogorichielab/mutli-tz)
+4. ℹ️ Labeled PR [#7](https://github.com/Gogorichielab/mutli-tz/pull/7) in [Gogorichielab/mutli-tz](https://github.com/Gogorichielab/mutli-tz)
+5. 💪 Opened PR [#7](https://github.com/Gogorichielab/mutli-tz/pull/7) in [Gogorichielab/mutli-tz](https://github.com/Gogorichielab/mutli-tz)
 <!--END_SECTION:activity-->
 
