@@ -10,10 +10,10 @@
 
 # Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#283](https://github.com/Gogorichielab/PPCollection/issues/283) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-2. 🎉 Merged PR [#285](https://github.com/Gogorichielab/PPCollection/pull/285) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-3. 🎉 Merged PR [#284](https://github.com/Gogorichielab/PPCollection/pull/284) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-4. 🗣 Commented on [#285](https://github.com/Gogorichielab/PPCollection/pull/285#issuecomment-4104929423) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-5. 🗣 Commented on [#284](https://github.com/Gogorichielab/PPCollection/pull/284#issuecomment-4104921306) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+1. ℹ️ Labeled PR [#5](https://github.com/Gogorichielab/mutli-tz/pull/5) in [Gogorichielab/mutli-tz](https://github.com/Gogorichielab/mutli-tz)
+2. 💪 Opened PR [#5](https://github.com/Gogorichielab/mutli-tz/pull/5) in [Gogorichielab/mutli-tz](https://github.com/Gogorichielab/mutli-tz)
+3. ℹ️ Labeled PR [#4](https://github.com/Gogorichielab/mutli-tz/pull/4) in [Gogorichielab/mutli-tz](https://github.com/Gogorichielab/mutli-tz)
+4. 💪 Opened PR [#4](https://github.com/Gogorichielab/mutli-tz/pull/4) in [Gogorichielab/mutli-tz](https://github.com/Gogorichielab/mutli-tz)
+5. 🔒 Closed issue [#283](https://github.com/Gogorichielab/PPCollection/issues/283) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
 <!--END_SECTION:activity-->
 
