@@ -10,10 +10,10 @@
 
 # Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/Gogorichielab/mutli-tz/pull/7) in [Gogorichielab/mutli-tz](https://github.com/Gogorichielab/mutli-tz)
-2. ℹ️ Labeled PR [#7](https://github.com/Gogorichielab/mutli-tz/pull/7) in [Gogorichielab/mutli-tz](https://github.com/Gogorichielab/mutli-tz)
-3. ℹ️ Labeled PR [#7](https://github.com/Gogorichielab/mutli-tz/pull/7) in [Gogorichielab/mutli-tz](https://github.com/Gogorichielab/mutli-tz)
-4. ℹ️ Labeled PR [#7](https://github.com/Gogorichielab/mutli-tz/pull/7) in [Gogorichielab/mutli-tz](https://github.com/Gogorichielab/mutli-tz)
-5. 💪 Opened PR [#7](https://github.com/Gogorichielab/mutli-tz/pull/7) in [Gogorichielab/mutli-tz](https://github.com/Gogorichielab/mutli-tz)
+1. 🗣 Commented on [#78](https://github.com/gogorichie/wave/pull/78#issuecomment-4192306117) in [gogorichie/wave](https://github.com/gogorichie/wave)
+2. 🗣 Commented on [#79](https://github.com/gogorichie/wave/pull/79#issuecomment-4192299417) in [gogorichie/wave](https://github.com/gogorichie/wave)
+3. ℹ️ Assigned issue [#3](https://github.com/gogorichie/wave/issues/3) in [gogorichie/wave](https://github.com/gogorichie/wave)
+4. ℹ️ Assigned issue [#3](https://github.com/gogorichie/wave/issues/3) in [gogorichie/wave](https://github.com/gogorichie/wave)
+5. ℹ️ Assigned issue [#33](https://github.com/gogorichie/wave/issues/33) in [gogorichie/wave](https://github.com/gogorichie/wave)
 <!--END_SECTION:activity-->
 
