@@ -10,10 +10,10 @@
 
 # Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/Gogorichielab/swearjar/pull/7) in [Gogorichielab/swearjar](https://github.com/Gogorichielab/swearjar)
-2. ℹ️ Labeled PR [#7](https://github.com/Gogorichielab/swearjar/pull/7) in [Gogorichielab/swearjar](https://github.com/Gogorichielab/swearjar)
-3. 💪 Opened PR [#7](https://github.com/Gogorichielab/swearjar/pull/7) in [Gogorichielab/swearjar](https://github.com/Gogorichielab/swearjar)
-4. 🎉 Merged PR [#5](https://github.com/Gogorichielab/swearjar/pull/5) in [Gogorichielab/swearjar](https://github.com/Gogorichielab/swearjar)
-5. 🎉 Merged PR [#4](https://github.com/Gogorichielab/swearjar/pull/4) in [Gogorichielab/swearjar](https://github.com/Gogorichielab/swearjar)
+1. 🔒 Closed issue [#33](https://github.com/gogorichie/wave/issues/33) in [gogorichie/wave](https://github.com/gogorichie/wave)
+2. 🔒 Closed issue [#3](https://github.com/gogorichie/wave/issues/3) in [gogorichie/wave](https://github.com/gogorichie/wave)
+3. 🎉 Merged PR [#82](https://github.com/gogorichie/wave/pull/82) in [gogorichie/wave](https://github.com/gogorichie/wave)
+4. ℹ️ Labeled PR [#82](https://github.com/gogorichie/wave/pull/82) in [gogorichie/wave](https://github.com/gogorichie/wave)
+5. ℹ️ Labeled PR [#82](https://github.com/gogorichie/wave/pull/82) in [gogorichie/wave](https://github.com/gogorichie/wave)
 <!--END_SECTION:activity-->
 
