@@ -10,10 +10,10 @@
 
 # Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#308](https://github.com/Gogorichielab/PPCollection/pull/308) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-2. 💪 Opened PR [#308](https://github.com/Gogorichielab/PPCollection/pull/308) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-3. ❌ Closed PR [#296](https://github.com/Gogorichielab/PPCollection/pull/296) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-4. ❌ Closed PR [#297](https://github.com/Gogorichielab/PPCollection/pull/297) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-5. ❌ Closed PR [#298](https://github.com/Gogorichielab/PPCollection/pull/298) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+1. ℹ️ Assigned issue [#15](https://github.com/Gogorichielab/gun-db/issues/15) in [Gogorichielab/gun-db](https://github.com/Gogorichielab/gun-db)
+2. ℹ️ Assigned issue [#15](https://github.com/Gogorichielab/gun-db/issues/15) in [Gogorichielab/gun-db](https://github.com/Gogorichielab/gun-db)
+3. 🎉 Merged PR [#308](https://github.com/Gogorichielab/PPCollection/pull/308) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+4. 💪 Opened PR [#308](https://github.com/Gogorichielab/PPCollection/pull/308) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+5. ❌ Closed PR [#296](https://github.com/Gogorichielab/PPCollection/pull/296) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
 <!--END_SECTION:activity-->
 
