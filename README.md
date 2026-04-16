@@ -10,10 +10,10 @@
 
 # Recent Github Activity
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#15](https://github.com/Gogorichielab/gun-db/issues/15) in [Gogorichielab/gun-db](https://github.com/Gogorichielab/gun-db)
-2. ℹ️ Assigned issue [#15](https://github.com/Gogorichielab/gun-db/issues/15) in [Gogorichielab/gun-db](https://github.com/Gogorichielab/gun-db)
-3. 🎉 Merged PR [#308](https://github.com/Gogorichielab/PPCollection/pull/308) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-4. 💪 Opened PR [#308](https://github.com/Gogorichielab/PPCollection/pull/308) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-5. ❌ Closed PR [#296](https://github.com/Gogorichielab/PPCollection/pull/296) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+1. ℹ️ Labeled PR [#10](https://github.com/Gogorichielab/swearjar/pull/10) in [Gogorichielab/swearjar](https://github.com/Gogorichielab/swearjar)
+2. 💪 Opened PR [#10](https://github.com/Gogorichielab/swearjar/pull/10) in [Gogorichielab/swearjar](https://github.com/Gogorichielab/swearjar)
+3. ℹ️ Assigned issue [#15](https://github.com/Gogorichielab/gun-db/issues/15) in [Gogorichielab/gun-db](https://github.com/Gogorichielab/gun-db)
+4. ℹ️ Assigned issue [#15](https://github.com/Gogorichielab/gun-db/issues/15) in [Gogorichielab/gun-db](https://github.com/Gogorichielab/gun-db)
+5. 🎉 Merged PR [#308](https://github.com/Gogorichielab/PPCollection/pull/308) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
 <!--END_SECTION:activity-->
 
