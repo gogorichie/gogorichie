@@ -10,10 +10,10 @@
 
 # Recent Github Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12](https://github.com/Gogorichielab/swearjar/pull/12) in [Gogorichielab/swearjar](https://github.com/Gogorichielab/swearjar)
-2. 🎉 Merged PR [#11](https://github.com/Gogorichielab/swearjar/pull/11) in [Gogorichielab/swearjar](https://github.com/Gogorichielab/swearjar)
-3. 💪 Opened PR [#11](https://github.com/Gogorichielab/swearjar/pull/11) in [Gogorichielab/swearjar](https://github.com/Gogorichielab/swearjar)
-4. 🎉 Merged PR [#10](https://github.com/Gogorichielab/swearjar/pull/10) in [Gogorichielab/swearjar](https://github.com/Gogorichielab/swearjar)
-5. ℹ️ Labeled PR [#10](https://github.com/Gogorichielab/swearjar/pull/10) in [Gogorichielab/swearjar](https://github.com/Gogorichielab/swearjar)
+1. 🗣 Commented on [#12](https://github.com/Gogorichielab/swearjar/pull/12#issuecomment-4271446876) in [Gogorichielab/swearjar](https://github.com/Gogorichielab/swearjar)
+2. ❗ Opened issue [#13](https://github.com/Gogorichielab/swearjar/issues/13) in [Gogorichielab/swearjar](https://github.com/Gogorichielab/swearjar)
+3. 🎉 Merged PR [#12](https://github.com/Gogorichielab/swearjar/pull/12) in [Gogorichielab/swearjar](https://github.com/Gogorichielab/swearjar)
+4. 💪 Opened PR [#12](https://github.com/Gogorichielab/swearjar/pull/12) in [Gogorichielab/swearjar](https://github.com/Gogorichielab/swearjar)
+5. 🎉 Merged PR [#11](https://github.com/Gogorichielab/swearjar/pull/11) in [Gogorichielab/swearjar](https://github.com/Gogorichielab/swearjar)
 <!--END_SECTION:activity-->
 
