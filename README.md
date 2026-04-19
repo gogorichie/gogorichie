@@ -10,10 +10,10 @@
 
 # Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#17](https://github.com/Gogorichielab/gun-db/issues/17) in [Gogorichielab/gun-db](https://github.com/Gogorichielab/gun-db)
-2. 🎉 Merged PR [#23](https://github.com/Gogorichielab/gun-db/pull/23) in [Gogorichielab/gun-db](https://github.com/Gogorichielab/gun-db)
-3. 🎉 Merged PR [#24](https://github.com/Gogorichielab/gun-db/pull/24) in [Gogorichielab/gun-db](https://github.com/Gogorichielab/gun-db)
-4. 🔒 Closed issue [#18](https://github.com/Gogorichielab/gun-db/issues/18) in [Gogorichielab/gun-db](https://github.com/Gogorichielab/gun-db)
-5. ℹ️ Labeled PR [#24](https://github.com/Gogorichielab/gun-db/pull/24) in [Gogorichielab/gun-db](https://github.com/Gogorichielab/gun-db)
+1. 🎉 Merged PR [#25](https://github.com/Gogorichielab/gun-db/pull/25) in [Gogorichielab/gun-db](https://github.com/Gogorichielab/gun-db)
+2. 💪 Opened PR [#25](https://github.com/Gogorichielab/gun-db/pull/25) in [Gogorichielab/gun-db](https://github.com/Gogorichielab/gun-db)
+3. 🔒 Closed issue [#17](https://github.com/Gogorichielab/gun-db/issues/17) in [Gogorichielab/gun-db](https://github.com/Gogorichielab/gun-db)
+4. 🎉 Merged PR [#23](https://github.com/Gogorichielab/gun-db/pull/23) in [Gogorichielab/gun-db](https://github.com/Gogorichielab/gun-db)
+5. 🎉 Merged PR [#24](https://github.com/Gogorichielab/gun-db/pull/24) in [Gogorichielab/gun-db](https://github.com/Gogorichielab/gun-db)
 <!--END_SECTION:activity-->
 
