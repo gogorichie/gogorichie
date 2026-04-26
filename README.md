@@ -10,10 +10,10 @@
 
 # Recent Github Activity
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#343](https://github.com/Gogorichielab/PPCollection/issues/343) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+1. 💪 Opened PR [#344](https://github.com/Gogorichielab/PPCollection/pull/344) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
 2. ℹ️ Labeled issue [#343](https://github.com/Gogorichielab/PPCollection/issues/343) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-3. ❗ Opened issue [#343](https://github.com/Gogorichielab/PPCollection/issues/343) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-4. ℹ️ Labeled issue [#342](https://github.com/Gogorichielab/PPCollection/issues/342) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+3. ℹ️ Labeled issue [#343](https://github.com/Gogorichielab/PPCollection/issues/343) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+4. ❗ Opened issue [#343](https://github.com/Gogorichielab/PPCollection/issues/343) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
 5. ℹ️ Labeled issue [#342](https://github.com/Gogorichielab/PPCollection/issues/342) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
 <!--END_SECTION:activity-->
 
