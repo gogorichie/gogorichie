@@ -10,10 +10,10 @@
 
 # Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#343](https://github.com/Gogorichielab/PPCollection/issues/343) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-2. 🗣 Commented on [#343](https://github.com/Gogorichielab/PPCollection/issues/343#issuecomment-4328536700) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-3. 🔒 Closed issue [#342](https://github.com/Gogorichielab/PPCollection/issues/342) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-4. 🗣 Commented on [#342](https://github.com/Gogorichielab/PPCollection/issues/342#issuecomment-4328534967) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-5. 🔒 Closed issue [#341](https://github.com/Gogorichielab/PPCollection/issues/341) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+1. 💪 Opened PR [#23](https://github.com/Gogorichielab/swearjar/pull/23) in [Gogorichielab/swearjar](https://github.com/Gogorichielab/swearjar)
+2. 🔒 Closed issue [#343](https://github.com/Gogorichielab/PPCollection/issues/343) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+3. 🗣 Commented on [#343](https://github.com/Gogorichielab/PPCollection/issues/343#issuecomment-4328536700) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+4. 🔒 Closed issue [#342](https://github.com/Gogorichielab/PPCollection/issues/342) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+5. 🗣 Commented on [#342](https://github.com/Gogorichielab/PPCollection/issues/342#issuecomment-4328534967) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
 <!--END_SECTION:activity-->
 
