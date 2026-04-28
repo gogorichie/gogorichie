@@ -10,10 +10,10 @@
 
 # Recent Github Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#346](https://github.com/Gogorichielab/PPCollection/pull/346) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-2. 💪 Opened PR [#347](https://github.com/Gogorichielab/PPCollection/pull/347) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-3. 🎉 Merged PR [#23](https://github.com/Gogorichielab/swearjar/pull/23) in [Gogorichielab/swearjar](https://github.com/Gogorichielab/swearjar)
-4. 🎉 Merged PR [#2](https://github.com/Gogorichielab/TheQuoteJar/pull/2) in [Gogorichielab/TheQuoteJar](https://github.com/Gogorichielab/TheQuoteJar)
-5. 🎉 Merged PR [#346](https://github.com/Gogorichielab/PPCollection/pull/346) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+1. 🗣 Commented on [#349](https://github.com/Gogorichielab/PPCollection/pull/349#issuecomment-4336610808) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+2. 💪 Opened PR [#349](https://github.com/Gogorichielab/PPCollection/pull/349) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+3. 🎉 Merged PR [#347](https://github.com/Gogorichielab/PPCollection/pull/347) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+4. 💪 Opened PR [#346](https://github.com/Gogorichielab/PPCollection/pull/346) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+5. 💪 Opened PR [#347](https://github.com/Gogorichielab/PPCollection/pull/347) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
 <!--END_SECTION:activity-->
 
