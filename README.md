@@ -10,10 +10,10 @@
 
 # Recent Github Activity
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#382](https://github.com/Gogorichielab/PPCollection/issues/382) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-2. ℹ️ Labeled issue [#382](https://github.com/Gogorichielab/PPCollection/issues/382) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-3. ℹ️ Labeled issue [#382](https://github.com/Gogorichielab/PPCollection/issues/382) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-4. ❗ Opened issue [#382](https://github.com/Gogorichielab/PPCollection/issues/382) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-5. ℹ️ Labeled issue [#381](https://github.com/Gogorichielab/PPCollection/issues/381) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+1. ℹ️ Labeled issue [#20](https://github.com/Gogorichielab/mutli-tz/issues/20) in [Gogorichielab/mutli-tz](https://github.com/Gogorichielab/mutli-tz)
+2. ℹ️ Labeled issue [#20](https://github.com/Gogorichielab/mutli-tz/issues/20) in [Gogorichielab/mutli-tz](https://github.com/Gogorichielab/mutli-tz)
+3. ❗ Opened issue [#20](https://github.com/Gogorichielab/mutli-tz/issues/20) in [Gogorichielab/mutli-tz](https://github.com/Gogorichielab/mutli-tz)
+4. ℹ️ Labeled issue [#19](https://github.com/Gogorichielab/mutli-tz/issues/19) in [Gogorichielab/mutli-tz](https://github.com/Gogorichielab/mutli-tz)
+5. ℹ️ Labeled issue [#19](https://github.com/Gogorichielab/mutli-tz/issues/19) in [Gogorichielab/mutli-tz](https://github.com/Gogorichielab/mutli-tz)
 <!--END_SECTION:activity-->
 
