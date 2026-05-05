@@ -10,10 +10,10 @@
 
 # Recent Github Activity
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#26](https://github.com/Gogorichielab/swearjar/issues/26) in [Gogorichielab/swearjar](https://github.com/Gogorichielab/swearjar)
-2. ℹ️ Labeled issue [#26](https://github.com/Gogorichielab/swearjar/issues/26) in [Gogorichielab/swearjar](https://github.com/Gogorichielab/swearjar)
-3. ❗ Opened issue [#26](https://github.com/Gogorichielab/swearjar/issues/26) in [Gogorichielab/swearjar](https://github.com/Gogorichielab/swearjar)
-4. ℹ️ Labeled issue [#25](https://github.com/Gogorichielab/swearjar/issues/25) in [Gogorichielab/swearjar](https://github.com/Gogorichielab/swearjar)
-5. ℹ️ Labeled issue [#25](https://github.com/Gogorichielab/swearjar/issues/25) in [Gogorichielab/swearjar](https://github.com/Gogorichielab/swearjar)
+1. ℹ️ Labeled issue [#382](https://github.com/Gogorichielab/PPCollection/issues/382) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+2. ℹ️ Labeled issue [#382](https://github.com/Gogorichielab/PPCollection/issues/382) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+3. ℹ️ Labeled issue [#382](https://github.com/Gogorichielab/PPCollection/issues/382) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+4. ❗ Opened issue [#382](https://github.com/Gogorichielab/PPCollection/issues/382) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+5. ℹ️ Labeled issue [#381](https://github.com/Gogorichielab/PPCollection/issues/381) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
 <!--END_SECTION:activity-->
 
