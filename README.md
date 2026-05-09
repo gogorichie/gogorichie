@@ -10,10 +10,10 @@
 
 # Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#53](https://github.com/Gogorichielab/nugget-tracker/pull/53) in [Gogorichielab/nugget-tracker](https://github.com/Gogorichielab/nugget-tracker)
-2. 💪 Opened PR [#53](https://github.com/Gogorichielab/nugget-tracker/pull/53) in [Gogorichielab/nugget-tracker](https://github.com/Gogorichielab/nugget-tracker)
-3. 🎉 Merged PR [#451](https://github.com/Gogorichielab/PPCollection/pull/451) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-4. 💪 Opened PR [#451](https://github.com/Gogorichielab/PPCollection/pull/451) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-5. 🎉 Merged PR [#449](https://github.com/Gogorichielab/PPCollection/pull/449) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+1. 🔒 Closed issue [#433](https://github.com/Gogorichielab/PPCollection/issues/433) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+2. 🔒 Closed issue [#431](https://github.com/Gogorichielab/PPCollection/issues/431) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+3. 🔒 Closed issue [#428](https://github.com/Gogorichielab/PPCollection/issues/428) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+4. 🔒 Closed issue [#415](https://github.com/Gogorichielab/PPCollection/issues/415) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+5. 🔒 Closed issue [#414](https://github.com/Gogorichielab/PPCollection/issues/414) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
 <!--END_SECTION:activity-->
 
