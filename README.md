@@ -10,10 +10,10 @@
 
 # Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#433](https://github.com/Gogorichielab/PPCollection/issues/433) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-2. 🔒 Closed issue [#431](https://github.com/Gogorichielab/PPCollection/issues/431) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-3. 🔒 Closed issue [#428](https://github.com/Gogorichielab/PPCollection/issues/428) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-4. 🔒 Closed issue [#415](https://github.com/Gogorichielab/PPCollection/issues/415) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-5. 🔒 Closed issue [#414](https://github.com/Gogorichielab/PPCollection/issues/414) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+1. ℹ️ Labeled issue [#459](https://github.com/Gogorichielab/PPCollection/issues/459) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+2. ℹ️ Labeled issue [#459](https://github.com/Gogorichielab/PPCollection/issues/459) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+3. ℹ️ Labeled issue [#459](https://github.com/Gogorichielab/PPCollection/issues/459) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+4. ℹ️ Labeled issue [#459](https://github.com/Gogorichielab/PPCollection/issues/459) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+5. ❗ Opened issue [#459](https://github.com/Gogorichielab/PPCollection/issues/459) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
 <!--END_SECTION:activity-->
 
