@@ -10,10 +10,10 @@
 
 # Recent Github Activity
 <!--START_SECTION:activity-->
-1. ℹ️ Unlabeled issue [#420](https://github.com/Gogorichielab/PPCollection/issues/420) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-2. ℹ️ Unlabeled issue [#425](https://github.com/Gogorichielab/PPCollection/issues/425) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-3. ℹ️ Unlabeled issue [#399](https://github.com/Gogorichielab/PPCollection/issues/399) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-4. ℹ️ Unlabeled issue [#407](https://github.com/Gogorichielab/PPCollection/issues/407) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-5. ℹ️ Unlabeled issue [#440](https://github.com/Gogorichielab/PPCollection/issues/440) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+1. 💪 Opened PR [#2](https://github.com/Gogorichielab/Spiritual-care-tracker/pull/2) in [Gogorichielab/Spiritual-care-tracker](https://github.com/Gogorichielab/Spiritual-care-tracker)
+2. 🎉 Merged PR [#1](https://github.com/Gogorichielab/Spiritual-care-tracker/pull/1) in [Gogorichielab/Spiritual-care-tracker](https://github.com/Gogorichielab/Spiritual-care-tracker)
+3. 💪 Opened PR [#1](https://github.com/Gogorichielab/Spiritual-care-tracker/pull/1) in [Gogorichielab/Spiritual-care-tracker](https://github.com/Gogorichielab/Spiritual-care-tracker)
+4. ℹ️ Unlabeled issue [#420](https://github.com/Gogorichielab/PPCollection/issues/420) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+5. ℹ️ Unlabeled issue [#425](https://github.com/Gogorichielab/PPCollection/issues/425) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
 <!--END_SECTION:activity-->
 
