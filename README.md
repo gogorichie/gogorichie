@@ -10,10 +10,10 @@
 
 # Recent Github Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/Gogorichielab/Spiritual-care-tracker/pull/4) in [Gogorichielab/Spiritual-care-tracker](https://github.com/Gogorichielab/Spiritual-care-tracker)
-2. 🎉 Merged PR [#3](https://github.com/Gogorichielab/Spiritual-care-tracker/pull/3) in [Gogorichielab/Spiritual-care-tracker](https://github.com/Gogorichielab/Spiritual-care-tracker)
-3. 💪 Opened PR [#3](https://github.com/Gogorichielab/Spiritual-care-tracker/pull/3) in [Gogorichielab/Spiritual-care-tracker](https://github.com/Gogorichielab/Spiritual-care-tracker)
-4. 🎉 Merged PR [#2](https://github.com/Gogorichielab/Spiritual-care-tracker/pull/2) in [Gogorichielab/Spiritual-care-tracker](https://github.com/Gogorichielab/Spiritual-care-tracker)
-5. 💪 Opened PR [#2](https://github.com/Gogorichielab/Spiritual-care-tracker/pull/2) in [Gogorichielab/Spiritual-care-tracker](https://github.com/Gogorichielab/Spiritual-care-tracker)
+1. 🎉 Merged PR [#4](https://github.com/Gogorichielab/Spiritual-care-tracker/pull/4) in [Gogorichielab/Spiritual-care-tracker](https://github.com/Gogorichielab/Spiritual-care-tracker)
+2. 💪 Opened PR [#4](https://github.com/Gogorichielab/Spiritual-care-tracker/pull/4) in [Gogorichielab/Spiritual-care-tracker](https://github.com/Gogorichielab/Spiritual-care-tracker)
+3. 🎉 Merged PR [#3](https://github.com/Gogorichielab/Spiritual-care-tracker/pull/3) in [Gogorichielab/Spiritual-care-tracker](https://github.com/Gogorichielab/Spiritual-care-tracker)
+4. 💪 Opened PR [#3](https://github.com/Gogorichielab/Spiritual-care-tracker/pull/3) in [Gogorichielab/Spiritual-care-tracker](https://github.com/Gogorichielab/Spiritual-care-tracker)
+5. 🎉 Merged PR [#2](https://github.com/Gogorichielab/Spiritual-care-tracker/pull/2) in [Gogorichielab/Spiritual-care-tracker](https://github.com/Gogorichielab/Spiritual-care-tracker)
 <!--END_SECTION:activity-->
 
