@@ -10,10 +10,10 @@
 
 # Recent Github Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#54](https://github.com/Gogorichielab/nugget-tracker/pull/54) in [Gogorichielab/nugget-tracker](https://github.com/Gogorichielab/nugget-tracker)
-2. 🔒 Closed issue [#22](https://github.com/Gogorichielab/Spiritual-care-tracker/issues/22) in [Gogorichielab/Spiritual-care-tracker](https://github.com/Gogorichielab/Spiritual-care-tracker)
-3. 🔒 Closed issue [#21](https://github.com/Gogorichielab/Spiritual-care-tracker/issues/21) in [Gogorichielab/Spiritual-care-tracker](https://github.com/Gogorichielab/Spiritual-care-tracker)
-4. 🔒 Closed issue [#20](https://github.com/Gogorichielab/Spiritual-care-tracker/issues/20) in [Gogorichielab/Spiritual-care-tracker](https://github.com/Gogorichielab/Spiritual-care-tracker)
-5. 🔒 Closed issue [#19](https://github.com/Gogorichielab/Spiritual-care-tracker/issues/19) in [Gogorichielab/Spiritual-care-tracker](https://github.com/Gogorichielab/Spiritual-care-tracker)
+1. 🎉 Merged PR [#54](https://github.com/Gogorichielab/nugget-tracker/pull/54) in [Gogorichielab/nugget-tracker](https://github.com/Gogorichielab/nugget-tracker)
+2. 💪 Opened PR [#54](https://github.com/Gogorichielab/nugget-tracker/pull/54) in [Gogorichielab/nugget-tracker](https://github.com/Gogorichielab/nugget-tracker)
+3. 🔒 Closed issue [#22](https://github.com/Gogorichielab/Spiritual-care-tracker/issues/22) in [Gogorichielab/Spiritual-care-tracker](https://github.com/Gogorichielab/Spiritual-care-tracker)
+4. 🔒 Closed issue [#21](https://github.com/Gogorichielab/Spiritual-care-tracker/issues/21) in [Gogorichielab/Spiritual-care-tracker](https://github.com/Gogorichielab/Spiritual-care-tracker)
+5. 🔒 Closed issue [#20](https://github.com/Gogorichielab/Spiritual-care-tracker/issues/20) in [Gogorichielab/Spiritual-care-tracker](https://github.com/Gogorichielab/Spiritual-care-tracker)
 <!--END_SECTION:activity-->
 
