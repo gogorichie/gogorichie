@@ -10,10 +10,10 @@
 
 # Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#54](https://github.com/Gogorichielab/nugget-tracker/pull/54) in [Gogorichielab/nugget-tracker](https://github.com/Gogorichielab/nugget-tracker)
-2. 💪 Opened PR [#54](https://github.com/Gogorichielab/nugget-tracker/pull/54) in [Gogorichielab/nugget-tracker](https://github.com/Gogorichielab/nugget-tracker)
-3. 🔒 Closed issue [#22](https://github.com/Gogorichielab/Spiritual-care-tracker/issues/22) in [Gogorichielab/Spiritual-care-tracker](https://github.com/Gogorichielab/Spiritual-care-tracker)
-4. 🔒 Closed issue [#21](https://github.com/Gogorichielab/Spiritual-care-tracker/issues/21) in [Gogorichielab/Spiritual-care-tracker](https://github.com/Gogorichielab/Spiritual-care-tracker)
-5. 🔒 Closed issue [#20](https://github.com/Gogorichielab/Spiritual-care-tracker/issues/20) in [Gogorichielab/Spiritual-care-tracker](https://github.com/Gogorichielab/Spiritual-care-tracker)
+1. 💪 Opened PR [#38](https://github.com/Gogorichielab/swearjar/pull/38) in [Gogorichielab/swearjar](https://github.com/Gogorichielab/swearjar)
+2. 💪 Opened PR [#37](https://github.com/Gogorichielab/swearjar/pull/37) in [Gogorichielab/swearjar](https://github.com/Gogorichielab/swearjar)
+3. ℹ️ Labeled PR [#36](https://github.com/Gogorichielab/swearjar/pull/36) in [Gogorichielab/swearjar](https://github.com/Gogorichielab/swearjar)
+4. 💪 Opened PR [#36](https://github.com/Gogorichielab/swearjar/pull/36) in [Gogorichielab/swearjar](https://github.com/Gogorichielab/swearjar)
+5. 🗣 Commented on [#31](https://github.com/Gogorichielab/swearjar/issues/31#issuecomment-4469520426) in [Gogorichielab/swearjar](https://github.com/Gogorichielab/swearjar)
 <!--END_SECTION:activity-->
 
