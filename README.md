@@ -10,10 +10,10 @@
 
 # Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#34](https://github.com/Gogorichielab/swearjar/issues/34) in [Gogorichielab/swearjar](https://github.com/Gogorichielab/swearjar)
-2. 🔒 Closed issue [#33](https://github.com/Gogorichielab/swearjar/issues/33) in [Gogorichielab/swearjar](https://github.com/Gogorichielab/swearjar)
-3. 🔒 Closed issue [#32](https://github.com/Gogorichielab/swearjar/issues/32) in [Gogorichielab/swearjar](https://github.com/Gogorichielab/swearjar)
-4. 🔒 Closed issue [#31](https://github.com/Gogorichielab/swearjar/issues/31) in [Gogorichielab/swearjar](https://github.com/Gogorichielab/swearjar)
-5. 🎉 Merged PR [#38](https://github.com/Gogorichielab/swearjar/pull/38) in [Gogorichielab/swearjar](https://github.com/Gogorichielab/swearjar)
+1. 💪 Opened PR [#473](https://github.com/Gogorichielab/PPCollection/pull/473) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+2. 🔒 Closed issue [#34](https://github.com/Gogorichielab/swearjar/issues/34) in [Gogorichielab/swearjar](https://github.com/Gogorichielab/swearjar)
+3. 🔒 Closed issue [#33](https://github.com/Gogorichielab/swearjar/issues/33) in [Gogorichielab/swearjar](https://github.com/Gogorichielab/swearjar)
+4. 🔒 Closed issue [#32](https://github.com/Gogorichielab/swearjar/issues/32) in [Gogorichielab/swearjar](https://github.com/Gogorichielab/swearjar)
+5. 🔒 Closed issue [#31](https://github.com/Gogorichielab/swearjar/issues/31) in [Gogorichielab/swearjar](https://github.com/Gogorichielab/swearjar)
 <!--END_SECTION:activity-->
 
