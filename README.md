@@ -10,10 +10,10 @@
 
 # Recent Github Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#473](https://github.com/Gogorichielab/PPCollection/pull/473) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-2. 🔒 Closed issue [#34](https://github.com/Gogorichielab/swearjar/issues/34) in [Gogorichielab/swearjar](https://github.com/Gogorichielab/swearjar)
-3. 🔒 Closed issue [#33](https://github.com/Gogorichielab/swearjar/issues/33) in [Gogorichielab/swearjar](https://github.com/Gogorichielab/swearjar)
-4. 🔒 Closed issue [#32](https://github.com/Gogorichielab/swearjar/issues/32) in [Gogorichielab/swearjar](https://github.com/Gogorichielab/swearjar)
-5. 🔒 Closed issue [#31](https://github.com/Gogorichielab/swearjar/issues/31) in [Gogorichielab/swearjar](https://github.com/Gogorichielab/swearjar)
+1. 🔒 Closed issue [#441](https://github.com/Gogorichielab/PPCollection/issues/441) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+2. 🔒 Closed issue [#435](https://github.com/Gogorichielab/PPCollection/issues/435) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+3. 🔒 Closed issue [#402](https://github.com/Gogorichielab/PPCollection/issues/402) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+4. 🔒 Closed issue [#400](https://github.com/Gogorichielab/PPCollection/issues/400) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+5. 🔒 Closed issue [#455](https://github.com/Gogorichielab/PPCollection/issues/455) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
 <!--END_SECTION:activity-->
 
