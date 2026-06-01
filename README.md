@@ -10,10 +10,10 @@
 
 # Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#94](https://github.com/gogorichie/wave/pull/94#issuecomment-4588675631) in [gogorichie/wave](https://github.com/gogorichie/wave)
-2. 💪 Opened PR [#64](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module/pull/64) in [gogorichie/terraform-grafana-influxdb-ds-module](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module)
-3. 🔒 Closed issue [#147](https://github.com/Gogorichielab/PPCollection/issues/147) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-4. 🗣 Commented on [#147](https://github.com/Gogorichielab/PPCollection/issues/147#issuecomment-4588072430) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-5. 🎉 Merged PR [#506](https://github.com/Gogorichielab/PPCollection/pull/506) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+1. 🔒 Closed issue [#101](https://github.com/gogorichie/wave/issues/101) in [gogorichie/wave](https://github.com/gogorichie/wave)
+2. 🔒 Closed issue [#100](https://github.com/gogorichie/wave/issues/100) in [gogorichie/wave](https://github.com/gogorichie/wave)
+3. 🔒 Closed issue [#99](https://github.com/gogorichie/wave/issues/99) in [gogorichie/wave](https://github.com/gogorichie/wave)
+4. 🔒 Closed issue [#98](https://github.com/gogorichie/wave/issues/98) in [gogorichie/wave](https://github.com/gogorichie/wave)
+5. 🎉 Merged PR [#103](https://github.com/gogorichie/wave/pull/103) in [gogorichie/wave](https://github.com/gogorichie/wave)
 <!--END_SECTION:activity-->
 
