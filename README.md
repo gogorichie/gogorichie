@@ -10,10 +10,10 @@
 
 # Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#503](https://github.com/Gogorichielab/PPCollection/issues/503) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-2. 🔒 Closed issue [#498](https://github.com/Gogorichielab/PPCollection/issues/498) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-3. 🔒 Closed issue [#492](https://github.com/Gogorichielab/PPCollection/issues/492) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-4. 🔒 Closed issue [#497](https://github.com/Gogorichielab/PPCollection/issues/497) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-5. 🎉 Merged PR [#11](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST/pull/11) in [Gogorichielab/AMERICASTRONGFAMILYFEST](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST)
+1. 💪 Opened PR [#12](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST/pull/12) in [Gogorichielab/AMERICASTRONGFAMILYFEST](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST)
+2. 💪 Opened PR [#11](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST/pull/11) in [Gogorichielab/AMERICASTRONGFAMILYFEST](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST)
+3. 💪 Opened PR [#10](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST/pull/10) in [Gogorichielab/AMERICASTRONGFAMILYFEST](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST)
+4. 💪 Opened PR [#9](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST/pull/9) in [Gogorichielab/AMERICASTRONGFAMILYFEST](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST)
+5. 🔒 Closed issue [#503](https://github.com/Gogorichielab/PPCollection/issues/503) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
 <!--END_SECTION:activity-->
 
