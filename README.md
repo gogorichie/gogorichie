@@ -10,10 +10,10 @@
 
 # Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#501](https://github.com/Gogorichielab/PPCollection/issues/501) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-2. 🔒 Closed issue [#496](https://github.com/Gogorichielab/PPCollection/issues/496) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-3. 🔒 Closed issue [#495](https://github.com/Gogorichielab/PPCollection/issues/495) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-4. 💪 Opened PR [#12](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST/pull/12) in [Gogorichielab/AMERICASTRONGFAMILYFEST](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST)
-5. 💪 Opened PR [#11](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST/pull/11) in [Gogorichielab/AMERICASTRONGFAMILYFEST](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST)
+1. 🎉 Merged PR [#1](https://github.com/Gogorichielab/splcf1/pull/1) in [Gogorichielab/splcf1](https://github.com/Gogorichielab/splcf1)
+2. 💪 Opened PR [#1](https://github.com/Gogorichielab/splcf1/pull/1) in [Gogorichielab/splcf1](https://github.com/Gogorichielab/splcf1)
+3. 🔒 Closed issue [#501](https://github.com/Gogorichielab/PPCollection/issues/501) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+4. 🔒 Closed issue [#496](https://github.com/Gogorichielab/PPCollection/issues/496) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+5. 🔒 Closed issue [#495](https://github.com/Gogorichielab/PPCollection/issues/495) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
 <!--END_SECTION:activity-->
 
