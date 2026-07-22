@@ -10,10 +10,10 @@
 
 # Recent Github Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#35](https://github.com/Gogorichielab/mutli-tz/pull/35) in [Gogorichielab/mutli-tz](https://github.com/Gogorichielab/mutli-tz)
-2. 🔒 Closed issue [#19](https://github.com/Gogorichielab/mutli-tz/issues/19) in [Gogorichielab/mutli-tz](https://github.com/Gogorichielab/mutli-tz)
-3. 🔒 Closed issue [#18](https://github.com/Gogorichielab/mutli-tz/issues/18) in [Gogorichielab/mutli-tz](https://github.com/Gogorichielab/mutli-tz)
-4. 🔒 Closed issue [#17](https://github.com/Gogorichielab/mutli-tz/issues/17) in [Gogorichielab/mutli-tz](https://github.com/Gogorichielab/mutli-tz)
-5. 🎉 Merged PR [#21](https://github.com/Gogorichielab/mutli-tz/pull/21) in [Gogorichielab/mutli-tz](https://github.com/Gogorichielab/mutli-tz)
+1. 🎉 Merged PR [#35](https://github.com/Gogorichielab/mutli-tz/pull/35) in [Gogorichielab/mutli-tz](https://github.com/Gogorichielab/mutli-tz)
+2. 💪 Opened PR [#35](https://github.com/Gogorichielab/mutli-tz/pull/35) in [Gogorichielab/mutli-tz](https://github.com/Gogorichielab/mutli-tz)
+3. 🔒 Closed issue [#19](https://github.com/Gogorichielab/mutli-tz/issues/19) in [Gogorichielab/mutli-tz](https://github.com/Gogorichielab/mutli-tz)
+4. 🔒 Closed issue [#18](https://github.com/Gogorichielab/mutli-tz/issues/18) in [Gogorichielab/mutli-tz](https://github.com/Gogorichielab/mutli-tz)
+5. 🔒 Closed issue [#17](https://github.com/Gogorichielab/mutli-tz/issues/17) in [Gogorichielab/mutli-tz](https://github.com/Gogorichielab/mutli-tz)
 <!--END_SECTION:activity-->
 
