@@ -10,10 +10,10 @@
 
 # Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/Gogorichielab/az-scaffold-kit/pull/2#issuecomment-5154291952) in [Gogorichielab/az-scaffold-kit](https://github.com/Gogorichielab/az-scaffold-kit)
-2. 🗣 Commented on [#2](https://github.com/Gogorichielab/az-scaffold-kit/pull/2#issuecomment-5154285307) in [Gogorichielab/az-scaffold-kit](https://github.com/Gogorichielab/az-scaffold-kit)
-3. 💪 Opened PR [#2](https://github.com/Gogorichielab/az-scaffold-kit/pull/2) in [Gogorichielab/az-scaffold-kit](https://github.com/Gogorichielab/az-scaffold-kit)
-4. 🎉 Merged PR [#93](https://github.com/gogorichie/gogorichieblog/pull/93) in [gogorichie/gogorichieblog](https://github.com/gogorichie/gogorichieblog)
-5. 🎉 Merged PR [#35](https://github.com/Gogorichielab/mutli-tz/pull/35) in [Gogorichielab/mutli-tz](https://github.com/Gogorichielab/mutli-tz)
+1. 🚀 Published release [0.1.0](https://github.com/Gogorichielab/terraform-azurerm-scaffold/releases/tag/0.1.0) in [Gogorichielab/terraform-azurerm-scaffold](https://github.com/Gogorichielab/terraform-azurerm-scaffold)
+2. ❌ Closed PR [#1](https://github.com/Gogorichielab/terraform-azurerm-scaffold/pull/1) in [Gogorichielab/terraform-azurerm-scaffold](https://github.com/Gogorichielab/terraform-azurerm-scaffold)
+3. 🎉 Merged PR [#4](https://github.com/Gogorichielab/terraform-azurerm-scaffold/pull/4) in [Gogorichielab/terraform-azurerm-scaffold](https://github.com/Gogorichielab/terraform-azurerm-scaffold)
+4. 💪 Opened PR [#4](https://github.com/Gogorichielab/terraform-azurerm-scaffold/pull/4) in [Gogorichielab/terraform-azurerm-scaffold](https://github.com/Gogorichielab/terraform-azurerm-scaffold)
+5. 🎉 Merged PR [#3](https://github.com/Gogorichielab/terraform-azurerm-scaffold/pull/3) in [Gogorichielab/terraform-azurerm-scaffold](https://github.com/Gogorichielab/terraform-azurerm-scaffold)
 <!--END_SECTION:activity-->
 
