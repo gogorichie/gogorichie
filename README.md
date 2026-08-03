@@ -10,10 +10,10 @@
 
 # Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.1.0](https://github.com/Gogorichielab/terraform-azurerm-scaffold/releases/tag/0.1.0) in [Gogorichielab/terraform-azurerm-scaffold](https://github.com/Gogorichielab/terraform-azurerm-scaffold)
-2. ❌ Closed PR [#1](https://github.com/Gogorichielab/terraform-azurerm-scaffold/pull/1) in [Gogorichielab/terraform-azurerm-scaffold](https://github.com/Gogorichielab/terraform-azurerm-scaffold)
-3. 🎉 Merged PR [#4](https://github.com/Gogorichielab/terraform-azurerm-scaffold/pull/4) in [Gogorichielab/terraform-azurerm-scaffold](https://github.com/Gogorichielab/terraform-azurerm-scaffold)
-4. 💪 Opened PR [#4](https://github.com/Gogorichielab/terraform-azurerm-scaffold/pull/4) in [Gogorichielab/terraform-azurerm-scaffold](https://github.com/Gogorichielab/terraform-azurerm-scaffold)
-5. 🎉 Merged PR [#3](https://github.com/Gogorichielab/terraform-azurerm-scaffold/pull/3) in [Gogorichielab/terraform-azurerm-scaffold](https://github.com/Gogorichielab/terraform-azurerm-scaffold)
+1. 🗣 Commented on [#547](https://github.com/Gogorichielab/PPCollection/pull/547#issuecomment-5164443750) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+2. 🚀 Published release [0.1.0](https://github.com/Gogorichielab/terraform-azurerm-scaffold/releases/tag/0.1.0) in [Gogorichielab/terraform-azurerm-scaffold](https://github.com/Gogorichielab/terraform-azurerm-scaffold)
+3. ❌ Closed PR [#1](https://github.com/Gogorichielab/terraform-azurerm-scaffold/pull/1) in [Gogorichielab/terraform-azurerm-scaffold](https://github.com/Gogorichielab/terraform-azurerm-scaffold)
+4. 🎉 Merged PR [#4](https://github.com/Gogorichielab/terraform-azurerm-scaffold/pull/4) in [Gogorichielab/terraform-azurerm-scaffold](https://github.com/Gogorichielab/terraform-azurerm-scaffold)
+5. 💪 Opened PR [#4](https://github.com/Gogorichielab/terraform-azurerm-scaffold/pull/4) in [Gogorichielab/terraform-azurerm-scaffold](https://github.com/Gogorichielab/terraform-azurerm-scaffold)
 <!--END_SECTION:activity-->
 
