@@ -10,10 +10,10 @@
 
 # Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#121](https://github.com/gogorichie/wave/pull/121) in [gogorichie/wave](https://github.com/gogorichie/wave)
-2. 🎉 Merged PR [#95](https://github.com/gogorichie/gogorichieblog/pull/95) in [gogorichie/gogorichieblog](https://github.com/gogorichie/gogorichieblog)
-3. 🎉 Merged PR [#72](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module/pull/72) in [gogorichie/terraform-grafana-influxdb-ds-module](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module)
-4. 🎉 Merged PR [#13](https://github.com/gogorichie/gogorichie/pull/13) in [gogorichie/gogorichie](https://github.com/gogorichie/gogorichie)
-5. 🎉 Merged PR [#36](https://github.com/gogorichie/esphome_esp32_s3_matrix/pull/36) in [gogorichie/esphome_esp32_s3_matrix](https://github.com/gogorichie/esphome_esp32_s3_matrix)
+1. 💪 Opened PR [#41](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST/pull/41) in [Gogorichielab/AMERICASTRONGFAMILYFEST](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST)
+2. 🎉 Merged PR [#121](https://github.com/gogorichie/wave/pull/121) in [gogorichie/wave](https://github.com/gogorichie/wave)
+3. 🎉 Merged PR [#95](https://github.com/gogorichie/gogorichieblog/pull/95) in [gogorichie/gogorichieblog](https://github.com/gogorichie/gogorichieblog)
+4. 🎉 Merged PR [#72](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module/pull/72) in [gogorichie/terraform-grafana-influxdb-ds-module](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module)
+5. 🎉 Merged PR [#13](https://github.com/gogorichie/gogorichie/pull/13) in [gogorichie/gogorichie](https://github.com/gogorichie/gogorichie)
 <!--END_SECTION:activity-->
 
