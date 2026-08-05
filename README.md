@@ -10,10 +10,10 @@
 
 # Recent Github Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#41](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST/pull/41) in [Gogorichielab/AMERICASTRONGFAMILYFEST](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST)
-2. 🎉 Merged PR [#121](https://github.com/gogorichie/wave/pull/121) in [gogorichie/wave](https://github.com/gogorichie/wave)
-3. 🎉 Merged PR [#95](https://github.com/gogorichie/gogorichieblog/pull/95) in [gogorichie/gogorichieblog](https://github.com/gogorichie/gogorichieblog)
-4. 🎉 Merged PR [#72](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module/pull/72) in [gogorichie/terraform-grafana-influxdb-ds-module](https://github.com/gogorichie/terraform-grafana-influxdb-ds-module)
-5. 🎉 Merged PR [#13](https://github.com/gogorichie/gogorichie/pull/13) in [gogorichie/gogorichie](https://github.com/gogorichie/gogorichie)
+1. 💪 Opened PR [#42](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST/pull/42) in [Gogorichielab/AMERICASTRONGFAMILYFEST](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST)
+2. 🔒 Closed issue [#24](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST/issues/24) in [Gogorichielab/AMERICASTRONGFAMILYFEST](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST)
+3. ℹ️ Labeled issue [#24](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST/issues/24) in [Gogorichielab/AMERICASTRONGFAMILYFEST](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST)
+4. 🔒 Closed issue [#35](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST/issues/35) in [Gogorichielab/AMERICASTRONGFAMILYFEST](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST)
+5. 🎉 Merged PR [#41](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST/pull/41) in [Gogorichielab/AMERICASTRONGFAMILYFEST](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST)
 <!--END_SECTION:activity-->
 
