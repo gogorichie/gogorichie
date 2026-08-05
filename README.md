@@ -10,10 +10,10 @@
 
 # Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#43](https://github.com/Gogorichielab/swearjar/pull/43) in [Gogorichielab/swearjar](https://github.com/Gogorichielab/swearjar)
-2. 🎉 Merged PR [#65](https://github.com/Gogorichielab/nugget-tracker/pull/65) in [Gogorichielab/nugget-tracker](https://github.com/Gogorichielab/nugget-tracker)
-3. 🎉 Merged PR [#38](https://github.com/Gogorichielab/mutli-tz/pull/38) in [Gogorichielab/mutli-tz](https://github.com/Gogorichielab/mutli-tz)
-4. 💪 Opened PR [#43](https://github.com/Gogorichielab/swearjar/pull/43) in [Gogorichielab/swearjar](https://github.com/Gogorichielab/swearjar)
-5. 💪 Opened PR [#65](https://github.com/Gogorichielab/nugget-tracker/pull/65) in [Gogorichielab/nugget-tracker](https://github.com/Gogorichielab/nugget-tracker)
+1. 💪 Opened PR [#7](https://github.com/Gogorichielab/splcf1/pull/7) in [Gogorichielab/splcf1](https://github.com/Gogorichielab/splcf1)
+2. 🎉 Merged PR [#43](https://github.com/Gogorichielab/swearjar/pull/43) in [Gogorichielab/swearjar](https://github.com/Gogorichielab/swearjar)
+3. 🎉 Merged PR [#65](https://github.com/Gogorichielab/nugget-tracker/pull/65) in [Gogorichielab/nugget-tracker](https://github.com/Gogorichielab/nugget-tracker)
+4. 🎉 Merged PR [#38](https://github.com/Gogorichielab/mutli-tz/pull/38) in [Gogorichielab/mutli-tz](https://github.com/Gogorichielab/mutli-tz)
+5. 💪 Opened PR [#43](https://github.com/Gogorichielab/swearjar/pull/43) in [Gogorichielab/swearjar](https://github.com/Gogorichielab/swearjar)
 <!--END_SECTION:activity-->
 
