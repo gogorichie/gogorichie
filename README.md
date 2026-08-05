@@ -10,10 +10,10 @@
 
 # Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#547](https://github.com/Gogorichielab/PPCollection/pull/547#issuecomment-5164443750) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-2. 🚀 Published release [0.1.0](https://github.com/Gogorichielab/terraform-azurerm-scaffold/releases/tag/0.1.0) in [Gogorichielab/terraform-azurerm-scaffold](https://github.com/Gogorichielab/terraform-azurerm-scaffold)
-3. ❌ Closed PR [#1](https://github.com/Gogorichielab/terraform-azurerm-scaffold/pull/1) in [Gogorichielab/terraform-azurerm-scaffold](https://github.com/Gogorichielab/terraform-azurerm-scaffold)
-4. 🎉 Merged PR [#4](https://github.com/Gogorichielab/terraform-azurerm-scaffold/pull/4) in [Gogorichielab/terraform-azurerm-scaffold](https://github.com/Gogorichielab/terraform-azurerm-scaffold)
-5. 💪 Opened PR [#4](https://github.com/Gogorichielab/terraform-azurerm-scaffold/pull/4) in [Gogorichielab/terraform-azurerm-scaffold](https://github.com/Gogorichielab/terraform-azurerm-scaffold)
+1. 🎉 Merged PR [#43](https://github.com/Gogorichielab/swearjar/pull/43) in [Gogorichielab/swearjar](https://github.com/Gogorichielab/swearjar)
+2. 🎉 Merged PR [#65](https://github.com/Gogorichielab/nugget-tracker/pull/65) in [Gogorichielab/nugget-tracker](https://github.com/Gogorichielab/nugget-tracker)
+3. 🎉 Merged PR [#38](https://github.com/Gogorichielab/mutli-tz/pull/38) in [Gogorichielab/mutli-tz](https://github.com/Gogorichielab/mutli-tz)
+4. 💪 Opened PR [#43](https://github.com/Gogorichielab/swearjar/pull/43) in [Gogorichielab/swearjar](https://github.com/Gogorichielab/swearjar)
+5. 💪 Opened PR [#65](https://github.com/Gogorichielab/nugget-tracker/pull/65) in [Gogorichielab/nugget-tracker](https://github.com/Gogorichielab/nugget-tracker)
 <!--END_SECTION:activity-->
 
