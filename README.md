@@ -10,10 +10,10 @@
 
 # Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🔓 Reopened issue [#13](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST/issues/13) in [Gogorichielab/AMERICASTRONGFAMILYFEST](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST)
-2. 💪 Opened PR [#43](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST/pull/43) in [Gogorichielab/AMERICASTRONGFAMILYFEST](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST)
-3. 🔒 Closed issue [#13](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST/issues/13) in [Gogorichielab/AMERICASTRONGFAMILYFEST](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST)
-4. 🎉 Merged PR [#42](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST/pull/42) in [Gogorichielab/AMERICASTRONGFAMILYFEST](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST)
-5. 💪 Opened PR [#42](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST/pull/42) in [Gogorichielab/AMERICASTRONGFAMILYFEST](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST)
+1. 💪 Opened PR [#101](https://github.com/gogorichie/gogorichieblog/pull/101) in [gogorichie/gogorichieblog](https://github.com/gogorichie/gogorichieblog)
+2. ❌ Closed PR [#99](https://github.com/gogorichie/gogorichieblog/pull/99) in [gogorichie/gogorichieblog](https://github.com/gogorichie/gogorichieblog)
+3. ❌ Closed PR [#98](https://github.com/gogorichie/gogorichieblog/pull/98) in [gogorichie/gogorichieblog](https://github.com/gogorichie/gogorichieblog)
+4. 💪 Opened PR [#100](https://github.com/gogorichie/gogorichieblog/pull/100) in [gogorichie/gogorichieblog](https://github.com/gogorichie/gogorichieblog)
+5. 💪 Opened PR [#99](https://github.com/gogorichie/gogorichieblog/pull/99) in [gogorichie/gogorichieblog](https://github.com/gogorichie/gogorichieblog)
 <!--END_SECTION:activity-->
 
