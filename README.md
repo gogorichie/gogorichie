@@ -10,10 +10,10 @@
 
 # Recent Github Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3](https://github.com/Gogorichielab/.github/issues/3) in [Gogorichielab/.github](https://github.com/Gogorichielab/.github)
-2. ❗ Opened issue [#2](https://github.com/Gogorichielab/terraform-grafana-influxdb-ds-module/issues/2) in [Gogorichielab/terraform-grafana-influxdb-ds-module](https://github.com/Gogorichielab/terraform-grafana-influxdb-ds-module)
-3. ❗ Opened issue [#7](https://github.com/Gogorichielab/terraform-azurerm-scaffold/issues/7) in [Gogorichielab/terraform-azurerm-scaffold](https://github.com/Gogorichielab/terraform-azurerm-scaffold)
-4. ❗ Opened issue [#44](https://github.com/Gogorichielab/swearjar/issues/44) in [Gogorichielab/swearjar](https://github.com/Gogorichielab/swearjar)
-5. ❗ Opened issue [#11](https://github.com/Gogorichielab/splcf1/issues/11) in [Gogorichielab/splcf1](https://github.com/Gogorichielab/splcf1)
+1. 🎉 Merged PR [#45](https://github.com/Gogorichielab/swearjar/pull/45) in [Gogorichielab/swearjar](https://github.com/Gogorichielab/swearjar)
+2. 🔒 Closed issue [#44](https://github.com/Gogorichielab/swearjar/issues/44) in [Gogorichielab/swearjar](https://github.com/Gogorichielab/swearjar)
+3. 💪 Opened PR [#45](https://github.com/Gogorichielab/swearjar/pull/45) in [Gogorichielab/swearjar](https://github.com/Gogorichielab/swearjar)
+4. 🎉 Merged PR [#2](https://github.com/Gogorichielab/.github/pull/2) in [Gogorichielab/.github](https://github.com/Gogorichielab/.github)
+5. ❗ Opened issue [#3](https://github.com/Gogorichielab/.github/issues/3) in [Gogorichielab/.github](https://github.com/Gogorichielab/.github)
 <!--END_SECTION:activity-->
 
