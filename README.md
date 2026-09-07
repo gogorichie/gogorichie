@@ -10,10 +10,10 @@
 
 # Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#65](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST/issues/65#issuecomment-5573918873) in [Gogorichielab/AMERICASTRONGFAMILYFEST](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST)
-2. 🗣 Commented on [#65](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST/issues/65#issuecomment-5573895776) in [Gogorichielab/AMERICASTRONGFAMILYFEST](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST)
-3. ℹ️ Unassigned issue [#65](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST/issues/65) in [Gogorichielab/AMERICASTRONGFAMILYFEST](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST)
-4. ℹ️ Unassigned issue [#65](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST/issues/65) in [Gogorichielab/AMERICASTRONGFAMILYFEST](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST)
-5. ℹ️ Assigned issue [#65](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST/issues/65) in [Gogorichielab/AMERICASTRONGFAMILYFEST](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST)
+1. ℹ️ Labeled issue [#61](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST/issues/61) in [Gogorichielab/AMERICASTRONGFAMILYFEST](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST)
+2. ℹ️ Unlabeled issue [#61](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST/issues/61) in [Gogorichielab/AMERICASTRONGFAMILYFEST](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST)
+3. 🎉 Merged PR [#70](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST/pull/70) in [Gogorichielab/AMERICASTRONGFAMILYFEST](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST)
+4. ℹ️ Labeled issue [#61](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST/issues/61) in [Gogorichielab/AMERICASTRONGFAMILYFEST](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST)
+5. ℹ️ Labeled PR [#70](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST/pull/70) in [Gogorichielab/AMERICASTRONGFAMILYFEST](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST)
 <!--END_SECTION:activity-->
 
