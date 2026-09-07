@@ -10,10 +10,10 @@
 
 # Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#45](https://github.com/Gogorichielab/swearjar/pull/45) in [Gogorichielab/swearjar](https://github.com/Gogorichielab/swearjar)
-2. 🔒 Closed issue [#44](https://github.com/Gogorichielab/swearjar/issues/44) in [Gogorichielab/swearjar](https://github.com/Gogorichielab/swearjar)
-3. 💪 Opened PR [#45](https://github.com/Gogorichielab/swearjar/pull/45) in [Gogorichielab/swearjar](https://github.com/Gogorichielab/swearjar)
-4. 🎉 Merged PR [#2](https://github.com/Gogorichielab/.github/pull/2) in [Gogorichielab/.github](https://github.com/Gogorichielab/.github)
-5. ❗ Opened issue [#3](https://github.com/Gogorichielab/.github/issues/3) in [Gogorichielab/.github](https://github.com/Gogorichielab/.github)
+1. 🗣 Commented on [#65](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST/issues/65#issuecomment-5573918873) in [Gogorichielab/AMERICASTRONGFAMILYFEST](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST)
+2. 🗣 Commented on [#65](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST/issues/65#issuecomment-5573895776) in [Gogorichielab/AMERICASTRONGFAMILYFEST](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST)
+3. ℹ️ Unassigned issue [#65](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST/issues/65) in [Gogorichielab/AMERICASTRONGFAMILYFEST](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST)
+4. ℹ️ Unassigned issue [#65](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST/issues/65) in [Gogorichielab/AMERICASTRONGFAMILYFEST](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST)
+5. ℹ️ Assigned issue [#65](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST/issues/65) in [Gogorichielab/AMERICASTRONGFAMILYFEST](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST)
 <!--END_SECTION:activity-->
 
