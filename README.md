@@ -10,10 +10,10 @@
 
 # Recent Github Activity
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#61](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST/issues/61) in [Gogorichielab/AMERICASTRONGFAMILYFEST](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST)
-2. ℹ️ Unlabeled issue [#61](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST/issues/61) in [Gogorichielab/AMERICASTRONGFAMILYFEST](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST)
-3. 🎉 Merged PR [#70](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST/pull/70) in [Gogorichielab/AMERICASTRONGFAMILYFEST](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST)
-4. ℹ️ Labeled issue [#61](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST/issues/61) in [Gogorichielab/AMERICASTRONGFAMILYFEST](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST)
-5. ℹ️ Labeled PR [#70](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST/pull/70) in [Gogorichielab/AMERICASTRONGFAMILYFEST](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST)
+1. ℹ️ Labeled issue [#69](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST/issues/69) in [Gogorichielab/AMERICASTRONGFAMILYFEST](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST)
+2. ℹ️ Labeled issue [#66](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST/issues/66) in [Gogorichielab/AMERICASTRONGFAMILYFEST](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST)
+3. ℹ️ Labeled issue [#67](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST/issues/67) in [Gogorichielab/AMERICASTRONGFAMILYFEST](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST)
+4. ℹ️ Labeled issue [#40](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST/issues/40) in [Gogorichielab/AMERICASTRONGFAMILYFEST](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST)
+5. ℹ️ Labeled issue [#57](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST/issues/57) in [Gogorichielab/AMERICASTRONGFAMILYFEST](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST)
 <!--END_SECTION:activity-->
 
