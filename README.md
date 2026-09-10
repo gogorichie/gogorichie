@@ -10,10 +10,10 @@
 
 # Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#82](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST/pull/82) in [Gogorichielab/AMERICASTRONGFAMILYFEST](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST)
-2. 💪 Opened PR [#82](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST/pull/82) in [Gogorichielab/AMERICASTRONGFAMILYFEST](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST)
-3. 🔒 Closed issue [#63](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST/issues/63) in [Gogorichielab/AMERICASTRONGFAMILYFEST](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST)
-4. 🎉 Merged PR [#81](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST/pull/81) in [Gogorichielab/AMERICASTRONGFAMILYFEST](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST)
-5. 💪 Opened PR [#12](https://github.com/Gogorichielab/splcf1/pull/12) in [Gogorichielab/splcf1](https://github.com/Gogorichielab/splcf1)
+1. 🎉 Merged PR [#12](https://github.com/Gogorichielab/splcf1/pull/12) in [Gogorichielab/splcf1](https://github.com/Gogorichielab/splcf1)
+2. 🎉 Merged PR [#82](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST/pull/82) in [Gogorichielab/AMERICASTRONGFAMILYFEST](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST)
+3. 💪 Opened PR [#82](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST/pull/82) in [Gogorichielab/AMERICASTRONGFAMILYFEST](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST)
+4. 🔒 Closed issue [#63](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST/issues/63) in [Gogorichielab/AMERICASTRONGFAMILYFEST](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST)
+5. 🎉 Merged PR [#81](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST/pull/81) in [Gogorichielab/AMERICASTRONGFAMILYFEST](https://github.com/Gogorichielab/AMERICASTRONGFAMILYFEST)
 <!--END_SECTION:activity-->
 
