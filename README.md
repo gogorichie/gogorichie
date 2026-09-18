@@ -10,10 +10,10 @@
 
 # Recent Github Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#588](https://github.com/Gogorichielab/PPCollection/pull/588) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-2. 🎉 Merged PR [#128](https://github.com/gogorichie/wave/pull/128) in [gogorichie/wave](https://github.com/gogorichie/wave)
-3. 🎉 Merged PR [#46](https://github.com/Gogorichielab/swearjar/pull/46) in [Gogorichielab/swearjar](https://github.com/Gogorichielab/swearjar)
-4. 🎉 Merged PR [#587](https://github.com/Gogorichielab/PPCollection/pull/587) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-5. 🎉 Merged PR [#43](https://github.com/Gogorichielab/mutli-tz/pull/43) in [Gogorichielab/mutli-tz](https://github.com/Gogorichielab/mutli-tz)
+1. 🎉 Merged PR [#18](https://github.com/stpeterlutheran/foundation/pull/18) in [stpeterlutheran/foundation](https://github.com/stpeterlutheran/foundation)
+2. 🎉 Merged PR [#84](https://github.com/stpeterlutheran/americastrongfamilyfest/pull/84) in [stpeterlutheran/americastrongfamilyfest](https://github.com/stpeterlutheran/americastrongfamilyfest)
+3. 💪 Opened PR [#84](https://github.com/stpeterlutheran/americastrongfamilyfest/pull/84) in [stpeterlutheran/americastrongfamilyfest](https://github.com/stpeterlutheran/americastrongfamilyfest)
+4. 💪 Opened PR [#18](https://github.com/stpeterlutheran/foundation/pull/18) in [stpeterlutheran/foundation](https://github.com/stpeterlutheran/foundation)
+5. 🔒 Closed issue [#11](https://github.com/stpeterlutheran/foundation/issues/11) in [stpeterlutheran/foundation](https://github.com/stpeterlutheran/foundation)
 <!--END_SECTION:activity-->
 
