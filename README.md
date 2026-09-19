@@ -10,10 +10,10 @@
 
 # Recent Github Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#12](https://github.com/Gogorichielab/trivia/issues/12) in [Gogorichielab/trivia](https://github.com/Gogorichielab/trivia)
-2. ❗ Opened issue [#11](https://github.com/Gogorichielab/trivia/issues/11) in [Gogorichielab/trivia](https://github.com/Gogorichielab/trivia)
-3. ❗ Opened issue [#10](https://github.com/Gogorichielab/trivia/issues/10) in [Gogorichielab/trivia](https://github.com/Gogorichielab/trivia)
-4. ❗ Opened issue [#9](https://github.com/Gogorichielab/trivia/issues/9) in [Gogorichielab/trivia](https://github.com/Gogorichielab/trivia)
-5. ❗ Opened issue [#8](https://github.com/Gogorichielab/trivia/issues/8) in [Gogorichielab/trivia](https://github.com/Gogorichielab/trivia)
+1. ℹ️ Labeled issue [#23](https://github.com/Gogorichielab/trivia/issues/23) in [Gogorichielab/trivia](https://github.com/Gogorichielab/trivia)
+2. ℹ️ Labeled issue [#22](https://github.com/Gogorichielab/trivia/issues/22) in [Gogorichielab/trivia](https://github.com/Gogorichielab/trivia)
+3. ℹ️ Labeled issue [#21](https://github.com/Gogorichielab/trivia/issues/21) in [Gogorichielab/trivia](https://github.com/Gogorichielab/trivia)
+4. ℹ️ Labeled issue [#17](https://github.com/Gogorichielab/trivia/issues/17) in [Gogorichielab/trivia](https://github.com/Gogorichielab/trivia)
+5. ℹ️ Labeled issue [#16](https://github.com/Gogorichielab/trivia/issues/16) in [Gogorichielab/trivia](https://github.com/Gogorichielab/trivia)
 <!--END_SECTION:activity-->
 
