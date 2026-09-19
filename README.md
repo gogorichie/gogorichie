@@ -10,10 +10,10 @@
 
 # Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/stpeterlutheran/foundation/pull/18) in [stpeterlutheran/foundation](https://github.com/stpeterlutheran/foundation)
-2. 🎉 Merged PR [#84](https://github.com/stpeterlutheran/americastrongfamilyfest/pull/84) in [stpeterlutheran/americastrongfamilyfest](https://github.com/stpeterlutheran/americastrongfamilyfest)
-3. 💪 Opened PR [#84](https://github.com/stpeterlutheran/americastrongfamilyfest/pull/84) in [stpeterlutheran/americastrongfamilyfest](https://github.com/stpeterlutheran/americastrongfamilyfest)
-4. 💪 Opened PR [#18](https://github.com/stpeterlutheran/foundation/pull/18) in [stpeterlutheran/foundation](https://github.com/stpeterlutheran/foundation)
-5. 🔒 Closed issue [#11](https://github.com/stpeterlutheran/foundation/issues/11) in [stpeterlutheran/foundation](https://github.com/stpeterlutheran/foundation)
+1. ❗ Opened issue [#12](https://github.com/Gogorichielab/trivia/issues/12) in [Gogorichielab/trivia](https://github.com/Gogorichielab/trivia)
+2. ❗ Opened issue [#11](https://github.com/Gogorichielab/trivia/issues/11) in [Gogorichielab/trivia](https://github.com/Gogorichielab/trivia)
+3. ❗ Opened issue [#10](https://github.com/Gogorichielab/trivia/issues/10) in [Gogorichielab/trivia](https://github.com/Gogorichielab/trivia)
+4. ❗ Opened issue [#9](https://github.com/Gogorichielab/trivia/issues/9) in [Gogorichielab/trivia](https://github.com/Gogorichielab/trivia)
+5. ❗ Opened issue [#8](https://github.com/Gogorichielab/trivia/issues/8) in [Gogorichielab/trivia](https://github.com/Gogorichielab/trivia)
 <!--END_SECTION:activity-->
 
