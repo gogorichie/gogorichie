@@ -10,10 +10,10 @@
 
 # Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22](https://github.com/Gogorichielab/trivia/issues/22#issuecomment-5743808131) in [Gogorichielab/trivia](https://github.com/Gogorichielab/trivia)
-2. 🗣 Commented on [#23](https://github.com/Gogorichielab/trivia/issues/23#issuecomment-5743806531) in [Gogorichielab/trivia](https://github.com/Gogorichielab/trivia)
-3. 🗣 Commented on [#6](https://github.com/Gogorichielab/trivia/issues/6#issuecomment-5743804994) in [Gogorichielab/trivia](https://github.com/Gogorichielab/trivia)
-4. 🗣 Commented on [#4](https://github.com/Gogorichielab/trivia/issues/4#issuecomment-5743803684) in [Gogorichielab/trivia](https://github.com/Gogorichielab/trivia)
-5. 🗣 Commented on [#21](https://github.com/Gogorichielab/trivia/issues/21#issuecomment-5743801349) in [Gogorichielab/trivia](https://github.com/Gogorichielab/trivia)
+1. 🔒 Closed issue [#10](https://github.com/Gogorichielab/trivia/issues/10) in [Gogorichielab/trivia](https://github.com/Gogorichielab/trivia)
+2. 🗣 Commented on [#10](https://github.com/Gogorichielab/trivia/issues/10#issuecomment-5745446492) in [Gogorichielab/trivia](https://github.com/Gogorichielab/trivia)
+3. 🎉 Merged PR [#31](https://github.com/Gogorichielab/trivia/pull/31) in [Gogorichielab/trivia](https://github.com/Gogorichielab/trivia)
+4. 💪 Opened PR [#31](https://github.com/Gogorichielab/trivia/pull/31) in [Gogorichielab/trivia](https://github.com/Gogorichielab/trivia)
+5. 🗣 Commented on [#26](https://github.com/Gogorichielab/trivia/issues/26#issuecomment-5745055385) in [Gogorichielab/trivia](https://github.com/Gogorichielab/trivia)
 <!--END_SECTION:activity-->
 
