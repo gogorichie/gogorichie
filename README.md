@@ -10,10 +10,10 @@
 
 # Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#44](https://github.com/Gogorichielab/trivia/pull/44) in [Gogorichielab/trivia](https://github.com/Gogorichielab/trivia)
-2. 💪 Opened PR [#44](https://github.com/Gogorichielab/trivia/pull/44) in [Gogorichielab/trivia](https://github.com/Gogorichielab/trivia)
-3. 🎉 Merged PR [#43](https://github.com/Gogorichielab/trivia/pull/43) in [Gogorichielab/trivia](https://github.com/Gogorichielab/trivia)
-4. 💪 Opened PR [#43](https://github.com/Gogorichielab/trivia/pull/43) in [Gogorichielab/trivia](https://github.com/Gogorichielab/trivia)
-5. 🎉 Merged PR [#42](https://github.com/Gogorichielab/trivia/pull/42) in [Gogorichielab/trivia](https://github.com/Gogorichielab/trivia)
+1. 🎉 Merged PR [#21](https://github.com/stpeterlutheran/foundation/pull/21) in [stpeterlutheran/foundation](https://github.com/stpeterlutheran/foundation)
+2. 💪 Opened PR [#21](https://github.com/stpeterlutheran/foundation/pull/21) in [stpeterlutheran/foundation](https://github.com/stpeterlutheran/foundation)
+3. 🎉 Merged PR [#20](https://github.com/stpeterlutheran/foundation/pull/20) in [stpeterlutheran/foundation](https://github.com/stpeterlutheran/foundation)
+4. 💪 Opened PR [#20](https://github.com/stpeterlutheran/foundation/pull/20) in [stpeterlutheran/foundation](https://github.com/stpeterlutheran/foundation)
+5. 🎉 Merged PR [#19](https://github.com/stpeterlutheran/foundation/pull/19) in [stpeterlutheran/foundation](https://github.com/stpeterlutheran/foundation)
 <!--END_SECTION:activity-->
 
