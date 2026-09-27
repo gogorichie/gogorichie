@@ -10,10 +10,10 @@
 
 # Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#129](https://github.com/Gogorichielab/wave/pull/129) in [Gogorichielab/wave](https://github.com/Gogorichielab/wave)
-2. 💪 Opened PR [#135](https://github.com/Gogorichielab/wave/pull/135) in [Gogorichielab/wave](https://github.com/Gogorichielab/wave)
-3. 💪 Opened PR [#134](https://github.com/Gogorichielab/wave/pull/134) in [Gogorichielab/wave](https://github.com/Gogorichielab/wave)
-4. 💪 Opened PR [#133](https://github.com/Gogorichielab/wave/pull/133) in [Gogorichielab/wave](https://github.com/Gogorichielab/wave)
-5. 💪 Opened PR [#132](https://github.com/Gogorichielab/wave/pull/132) in [Gogorichielab/wave](https://github.com/Gogorichielab/wave)
+1. 🔒 Closed issue [#4](https://github.com/Gogorichielab/wave/issues/4) in [Gogorichielab/wave](https://github.com/Gogorichielab/wave)
+2. 🗣 Commented on [#4](https://github.com/Gogorichielab/wave/issues/4#issuecomment-5860078112) in [Gogorichielab/wave](https://github.com/Gogorichielab/wave)
+3. 🔒 Closed issue [#126](https://github.com/Gogorichielab/wave/issues/126) in [Gogorichielab/wave](https://github.com/Gogorichielab/wave)
+4. 🎉 Merged PR [#135](https://github.com/Gogorichielab/wave/pull/135) in [Gogorichielab/wave](https://github.com/Gogorichielab/wave)
+5. 🎉 Merged PR [#134](https://github.com/Gogorichielab/wave/pull/134) in [Gogorichielab/wave](https://github.com/Gogorichielab/wave)
 <!--END_SECTION:activity-->
 
