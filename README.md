@@ -10,10 +10,10 @@
 
 # Recent Github Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#72](https://github.com/Gogorichielab/nugget-tracker/issues/72) in [Gogorichielab/nugget-tracker](https://github.com/Gogorichielab/nugget-tracker)
-2. 💪 Opened PR [#73](https://github.com/Gogorichielab/nugget-tracker/pull/73) in [Gogorichielab/nugget-tracker](https://github.com/Gogorichielab/nugget-tracker)
-3. ℹ️ Labeled issue [#634](https://github.com/Gogorichielab/PPCollection/issues/634) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-4. ❗ Opened issue [#634](https://github.com/Gogorichielab/PPCollection/issues/634) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
-5. ℹ️ Labeled PR [#71](https://github.com/Gogorichielab/nugget-tracker/pull/71) in [Gogorichielab/nugget-tracker](https://github.com/Gogorichielab/nugget-tracker)
+1. 🎉 Merged PR [#73](https://github.com/Gogorichielab/nugget-tracker/pull/73) in [Gogorichielab/nugget-tracker](https://github.com/Gogorichielab/nugget-tracker)
+2. ❗ Opened issue [#72](https://github.com/Gogorichielab/nugget-tracker/issues/72) in [Gogorichielab/nugget-tracker](https://github.com/Gogorichielab/nugget-tracker)
+3. 💪 Opened PR [#73](https://github.com/Gogorichielab/nugget-tracker/pull/73) in [Gogorichielab/nugget-tracker](https://github.com/Gogorichielab/nugget-tracker)
+4. ℹ️ Labeled issue [#634](https://github.com/Gogorichielab/PPCollection/issues/634) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
+5. ❗ Opened issue [#634](https://github.com/Gogorichielab/PPCollection/issues/634) in [Gogorichielab/PPCollection](https://github.com/Gogorichielab/PPCollection)
 <!--END_SECTION:activity-->
 
